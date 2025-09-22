@@ -1,0 +1,454 @@
+Strat1
+doIParticipate(TournamentCard tourney, List<Player> players){
+	//If someone can evolve, shields + 1 = new Rank, then participate
+	
+	for(int i = 0; i < players.size(); i++)
+	{
+		Player p = players.get(i);
+		int possibleShields = p.shields + 1 + tourney.getShields();
+		if((rank == Squire && possibleShields  >= 5)|| (rank == Knight && possibleShields  >= 7) || (rank == Champion Knight && possibleShields  >= 10))
+		{
+			isParticipating = true;
+			return;
+		}
+		else
+		{
+			isParticipating = false;
+		}
+	}
+}
+
+Strat2
+doIParticipate(TournamentCard tourney, List<Player> players){
+	isParticipating = true;
+}
+
+Strat1
+fight(TournamentCard tourney, int round){
+
+	cardsCommittedToFight = new PlayerDeck();
+
+	for(int i = 0; i < players.size(); i++)
+	{
+		Player p = players.get(i);
+		int possibleShields = p.shields + 1 + tourney.getShields();
+		if((rank == Squire && possibleShields  >= 5)|| (rank == Knight && possibleShields  >= 7) || (rank == Champion Knight && possibleShields  >= 10))
+		{
+			//Add Ally
+			cardsCommittedToFight.add(deck.getAllies().get(0));
+			//Add Amour
+			cardsCommittedToFight.add(deck.getAmours().get(0));
+			//Add Strongest Weapon
+			deck.getWeapons().sortHighest();
+			cardsCommittedToFight.add(deck.getWeapons().get(0));
+			return;
+		}
+	}
+	
+	//Else, add weapons that have duplicates
+	int i = 0;
+	WeaponDeck weapons = deck.getWeapons();
+	while(i < weapons.getSize())
+	{
+		//If the cards committed don't contain that card already, then add
+		if(!cardsCommittedToFight.isFound(weapons.get(i).getName()))
+		{
+			cardsCommittedToFight.add(weapons.get(i));
+		}
+		i++;
+	}
+	
+}
+
+Strat2
+fight(TournamentCard tourney, int round){
+
+	cardsCommittedToFight = new PlayerDeck();
+	
+	//Only one Amour per Story
+	cardsCommittedToFight.add(deck.getAmours().get(0));
+	
+	//Add weapons
+	int i = 0;
+	WeaponDeck weapons = deck.getWeapons();
+	weapons.sortHighest();
+	while(cardsCommittedToFight.calculatePoints() < 50 && i < weapons.getSize())
+	{
+		//If the cards committed don't contain that card already, then add
+		if(!cardsCommittedToFight.isFound(weapons.get(i).getName()))
+		{
+			cardsCommittedToFight.add(weapons.get(i));
+		}
+		i++;
+	}
+}
+
+--------------------------------------------------------------------------------------------------------------
+Strat1
+doISponsor(questCard quest){
+
+	for(int i = 0; i < players.size(); i++)
+	{
+		Player p = players.get(i);
+		int possibleShields = p.shields + quest.getNumStages();
+		if((rank == Squire && possibleShields  >= 5)|| (rank == Knight && possibleShields  >= 7) || (rank == Champion Knight && possibleShields  >= 10))
+		{
+			isSponsoring = false;
+			return;
+		}
+	}
+	
+	if(deck.getFoes().getSize() > (quest.getNumStages() - 1) && deck.getTests().getSize() > 0)
+	{
+		isSponsoring = true;
+	}
+	else
+	{
+		isSponsoring = false;
+	}
+}
+
+questSetup(questCard q, List<adventureCard>[] stages){
+
+	deck.getFoes().sortHighest();
+	deck.getWeapons().sortHighest();
+	
+	int points = deck.getFoes.get(0).getStat(0);
+	WeaponDeck weapons = deck.getWeapons();
+	int i = 0;
+	//Last stage
+	while(points < 50 && i < weapons.getSize())
+	{
+		//If the cards in stage don't contain that card already, then add
+		if(!stages[stages.size() - 1].contains(weapons.get(i)))
+		{
+			stages[stages.size() - 1].add(weapons.get(i));
+			points += weapons.get(i).getPoints();
+		}
+		i++;
+	}
+	
+	//second last stage
+	if(deck.getTests().getSize() > 0){stages[stages.size() - 2] = deck.getTests().get(0);}
+	else
+	{
+		int nextPoints = deck.getFoes.get(1).getStat(0);
+		while(nextPoints < points - 10 && i < weapons.getSize())
+		{
+			//If the cards in stage don't contain that card already, then add
+			if(!stages[stages.size() - 2].contains(weapons.get(i)))
+			{
+				stages[stages.size() - 2].add(weapons.get(i));
+				nextPoints += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+		points = nextPoints;
+	}
+	for(int i = stages.size() - 3; i >= 0; i--)
+	{
+		int nextPoints = deck.getFoes.get(i).getStat(0);
+		while(nextPoints < points - 10 && i < weapons.getSize())
+		{
+			//If the cards in stage don't contain that card already, then add
+			if(!stages[i].contains(weapons.get(i)))
+			{
+				stages[i].add(weapons.get(i));
+				nextPoints += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+		points = nextPoints;
+	}
+}
+
+Strat2
+doISponsor(questCard quest){
+
+	for(int i = 0; i < players.size(); i++)
+	{
+		Player p = players.get(i);
+		int possibleShields = p.shields + quest.getNumStages();
+		if((rank == Squire && possibleShields  >= 5)|| (rank == Knight && possibleShields  >= 7) || (rank == Champion Knight && possibleShields  >= 10))
+		{
+			isSponsoring = false;
+			return;
+		}
+	}
+	
+	if(deck.getFoes().getSize() > (quest.getNumStages() - 1) && deck.getTests().getSize() > 0)
+	{
+		isSponsoring = true;
+	}
+	else
+	{
+		isSponsoring = false;
+	}
+}
+
+
+
+Strat2
+questSetup(questCard q, List<adventureCard>[] stages){
+
+	deck.getFoes().sortHighest();
+	deck.getWeapons().sortHighest();
+	
+	int points = deck.getFoes.get(0).getStat(0);
+	WeaponDeck weapons = deck.getWeapons();
+	int i = 0;
+	//Last stage
+	while(points < 40 && i < weapons.getSize())
+	{
+		//If the cards in stage don't contain that card already, then add
+		if(!stages[stages.size() - 1].contains(weapons.get(i)))
+		{
+			stages[stages.size() - 1].add(weapons.get(i));
+			points += weapons.get(i).getPoints();
+		}
+		i++;
+	}
+	
+	//second last stage
+	if(deck.getTests().getSize() > 0){stages[stages.size() - 2].add(deck.getTests().get(0));}
+	else
+	{
+		int nextPoints = deck.getFoes.get(1).getStat(0);
+		while(nextPoints < points - 10 && i < weapons.getSize())
+		{
+			//If the cards in stage don't contain that card already, then add
+			if(!stages[stages.size() - 2].contains(weapons.get(i)))
+			{
+				stages[stages.size() - 2].add(weapons.get(i));
+				nextPoints += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+		points = nextPoints;
+	}
+	
+	deck.getFoes().sortLowest();
+	deck.getWeapons().sortLowest();
+	for(int i = 0; i < stages.size() - 2; i++)
+	{
+		int nextPoints = 0; .getStat(0);
+		if(i == 0)
+		{
+			points = deck.getFoes.get(2 + i);
+			stages[i].add(deck.getFoes.get(2 + i));
+		}
+		else
+		{
+			foeCard foe = null;
+			j = 0;
+			while(nextPoints < points)
+			{
+				foe = deck.getFoes.get(2 + i + j);
+				nextPoints = foe.getStat(0);
+				j++;
+			}
+			points = nextPoints;
+			stages[i].add(deck.getFoes.get(2 + i + j));
+		}
+		
+	}
+}
+
+Strat1
+doIParticipate(PlayerDeck[] questStages, questCard quest)
+{
+	int count = 0; 
+	for(int i = 0; i < deck.getFoes().getSize(); i++)
+	{
+		if(deck.getFoes().get(i).getStat(0) < 20)
+		{
+			count++;
+		}
+		if(count == 2 && (deck.getWeapons().getSize() + deck.getAllies().getSize()) > (2 * quest.getNumStages()))
+		{
+			isParticipating = true;
+			return;
+		}
+	}
+	isParticipating = false;	
+}
+
+public void fight(PlayerDeck enemies, int stage)
+{
+
+	//Fighting foes
+	if(stage >= 3)
+	{
+		int i = 0;
+		int points = 0;
+		deck.getWeapons().sortHighest();
+		WeaponDeck weapons = deck.getWeapons();
+		while(i < weapons.getSize() && points < enemies.calculatePoints())
+		{
+			//If the cards committed don't contain that card already, then add
+			if(!cardsCommittedToFight.isFound(weapons.get(i).getName()))
+			{
+				cardsCommittedToFight.add(weapons.get(i));
+				points += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+	}
+	else
+	{
+		if(deck.getAllies().getSize() > 1)
+		{
+			cardsCommittedToFight.add(deck.getAllies().get(0));
+			cardsCommittedToFight.add(deck.getAllies().get(1));
+		}
+		else if(deck.getAllies().getSize() > 0)
+		{
+			cardsCommittedToFight.add(deck.getAllies().get(0));
+		}
+		
+		deck.getWeapons().sortLowest();
+		WeaponDeck weapons = deck.getWeapons();
+		int i = 0;
+		while(cardsCommittedToFight.size() < 2)
+		{
+			//If the cards committed don't contain that card already, then add
+			if(!cardsCommittedToFight.isFound(weapons.get(i).getName()))
+			{
+				cardsCommittedToFight.add(weapons.get(i));
+				points += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+	}
+	
+}
+
+bid(String card, int bidsFromCardsInPlay, int[] biddersAmount, int highestBid)
+{
+	//Bid only once
+}
+
+discardAfterWinning(int round)
+{
+	//Discard foes < 20 points
+	deck.getFoes().sortLowest();
+	for(int i = 0; i < deck.getFoes().getSize(); i++)
+	{
+		if(deck.getFoes().get(i).getStat(0) < 20)
+		{
+			//Discard card
+		}
+	}
+}
+
+Strat2
+doIParticipate(PlayerDeck[] questStages, questCard quest)
+{
+	int count = 0; 
+	for(int i = 0; i < deck.getFoes().getSize(); i++)
+	{
+		if(deck.getFoes().get(i).getStat(0) < 20)
+		{
+			count++;
+		}
+		if(count == 2 && deck.getWeapons().calculatePoints() > 100)
+		{
+			isParticipating = true;
+			return;
+		}
+	}
+	isParticipating = false;
+	
+}
+
+public void fight(PlayerDeck enemies, int stage)
+{
+	//Fighting foes
+	if(stage >= 3)
+	{
+		int i = 0;
+		int points = 0;
+		deck.getWeapons().sortHighest();
+		WeaponDeck weapons = deck.getWeapons();
+		while(i < weapons.getSize() && points < enemies.calculatePoints())
+		{
+			//If the cards committed don't contain that card already, then add
+			if(!cardsCommittedToFight.isFound(weapons.get(i).getName()))
+			{
+				cardsCommittedToFight.add(weapons.get(i));
+				points += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+	}
+	else
+	{
+		if(deck.getAmours().getSize() > 0)	cardsCommittedToFight.add(deck.getAmours().get(0);
+		if(deck.getAllies().getSize() > 0) 	cardsCommittedToFight.add(deck.getAllies().get(0);
+		
+		WeaponDeck weapons = deck.getWeapons();
+		int i = 0;
+		while(cardsCommittedToFight.calculatePoints() < enemies.calculatePoints())
+		{
+			//If the cards committed don't contain that card already, then add
+			if(!cardsCommittedToFight.isFound(weapons.get(i).getName()))
+			{
+				cardsCommittedToFight.add(weapons.get(i));
+				points += weapons.get(i).getPoints();
+			}
+			i++;
+		}
+	}
+}
+
+bid(String card, int bidsFromCardsInPlay, int[] biddersAmount, int highestBid)
+{
+	
+	if(round == 1)
+	{
+		//Bid foes < 25
+	}
+	else
+	{
+		//Bid foes < 25 including duplicates
+	}
+}
+
+discardAfterWinning(int round)
+{
+	if(round == 1)
+	{
+		//Discard foes < 25 points
+		deck.getFoes().sortLowest();
+		for(int i = 0; i < deck.getFoes().getSize(); i++)
+		{
+			if(deck.getFoes().get(i).getStat(0) < 25)
+			{
+				//Discard card
+			}
+		}
+	}
+	else
+	{
+		//Discard foes from round 1 and all duplicates
+	}
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

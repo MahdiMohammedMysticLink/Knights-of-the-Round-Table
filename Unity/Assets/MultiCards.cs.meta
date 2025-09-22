@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 6f23e2c7d3c1a5c4da6190fa66e6b7d2
+timeCreated: 1517101802
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - card: {instanceID: 0}
+  - excalibur: {fileID: 21300000, guid: 5fa5a05d19d2ac14b82f82e15ab7e813, type: 3}
+  - lance: {instanceID: 0}
+  - battleax: {instanceID: 0}
+  - sword: {instanceID: 0}
+  - horse: {instanceID: 0}
+  - dagger: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

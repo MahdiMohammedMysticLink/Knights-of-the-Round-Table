@@ -1,0 +1,1683 @@
+59
+AMOUR
+King Arthur
+King Pellinore
+Merlin
+Queen Guinevere
+Queen Iseult
+Sir Galahad
+Sir Gawain
+Sir Lancelot
+Sir Percival
+Sir Tristan
+Chivalrous Deed
+Court Called Camelot
+King's Call to Arms
+King's Recognition
+Plague
+Pox
+Prosperity Throughout the Realm
+Queen's Favor
+Black Knight
+Boar
+Dragon
+Evil Knight
+Giant
+Green Knight
+Mordred
+Robber Knight
+Saxon Knight
+Saxons
+Thieves
+Camelot
+Orkney
+Tintagel
+York
+Boar Hunt
+Defend the Queen's Honor
+Journey through the Enchanted Forest
+Repel the Saxon Raiders
+Rescue the Fair Maiden
+Search for the Holy Grail
+Search for the Questing Beast
+Slay the Dragon
+Test of the Green Knight
+Vanquish King Arthur's Enemies
+Champion Knight
+Knight
+Squire
+Stage
+Test of Morgan Le Fey
+Test of Temptation
+Test of the Questing Beast
+Test of Valor
+Battle-ax
+Dagger
+Excalibur
+Horse
+Lance
+Sword
+Face Down Adventure Card
+File is located at C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Java\Maven\log.txt
+InitPlayers
+ humans are playing!
+ humans are playing!
+ humans are playing!
+ humans are playing!
+ humans are playing!
+ humans are playing!
+
+ 
+ 
+ 
+Server Listening......
+Apr 11, 2018 9:48:56 PM com.COMP3004.Socket.GameServer <init>
+INFO: Server Listening port:1983
+connection Established
+Apr 11, 2018 9:49:02 PM com.COMP3004.Socket.GameServer <init>
+INFO: Connection Established port:1983
+connection Established
+Apr 11, 2018 9:49:05 PM com.COMP3004.Socket.GameServer <init>
+INFO: Connection Established port:1983
+connection Established
+Apr 11, 2018 9:49:07 PM com.COMP3004.Socket.GameServer <init>
+INFO: Connection Established port:1983
+connection Established
+Apr 11, 2018 9:49:11 PM com.COMP3004.Socket.GameServer <init>
+INFO: Connection Established port:1983
+done calling connect server function!
+
+
+
+
+passed in: Sir Tristan
+name in deck: King Arthur
+passed in: Sir Tristan
+name in deck: Thieves
+passed in: Sir Tristan
+name in deck: Test of Temptation
+passed in: Sir Tristan
+name in deck: Robber Knight
+passed in: Sir Tristan
+name in deck: Sword
+passed in: Sir Tristan
+name in deck: Sword
+passed in: Sir Tristan
+name in deck: Battle-ax
+passed in: Sir Tristan
+name in deck: Dragon
+passed in: Sir Tristan
+name in deck: Battle-ax
+passed in: Sir Tristan
+name in deck: AMOUR
+passed in: Sir Tristan
+name in deck: Robber Knight
+passed in: Sir Tristan
+name in deck: AMOUR
+passed in: Sir Tristan
+name in deck: Test of Valor
+passed in: Sir Tristan
+name in deck: Sir Percival
+passed in: Sir Tristan
+name in deck: Mordred
+passed in: Sir Tristan
+name in deck: Thieves
+passed in: Sir Tristan
+name in deck: Lance
+passed in: Sir Tristan
+name in deck: Sir Tristan
+passed in: Sir Tristan
+name in deck: King Arthur
+passed in: Sir Tristan
+name in deck: Thieves
+passed in: Sir Tristan
+name in deck: Test of Temptation
+passed in: Sir Tristan
+name in deck: Robber Knight
+passed in: Sir Tristan
+name in deck: Sword
+passed in: Sir Tristan
+name in deck: Sword
+passed in: Sir Tristan
+name in deck: Battle-ax
+passed in: Sir Tristan
+name in deck: Dragon
+passed in: Sir Tristan
+name in deck: Battle-ax
+passed in: Sir Tristan
+name in deck: AMOUR
+passed in: Sir Tristan
+name in deck: Robber Knight
+passed in: Sir Tristan
+name in deck: AMOUR
+passed in: Sir Tristan
+name in deck: Test of Valor
+passed in: Sir Tristan
+name in deck: Sir Percival
+passed in: Sir Tristan
+name in deck: Mordred
+passed in: Sir Tristan
+name in deck: Thieves
+passed in: Sir Tristan
+name in deck: Lance
+passed in: Sir Tristan
+name in deck: Sir Tristan
+passed in: King Pellinore
+name in deck: King Arthur
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: Test of Temptation
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Dragon
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Test of Valor
+passed in: King Pellinore
+name in deck: Sir Percival
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: Lance
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Test of Temptation
+passed in: King Pellinore
+name in deck: Sir Lancelot
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Test of Morgan Le Fey
+passed in: King Pellinore
+name in deck: Lance
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Test of the Questing Beast
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Giant
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Green Knight
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Excalibur
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Black Knight
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Sir Gawain
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Queen Iseult
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Black Knight
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Queen Guinevere
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Sir Galahad
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Test of Morgan Le Fey
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Green Knight
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Black Knight
+passed in: King Pellinore
+name in deck: Test of the Questing Beast
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Lance
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Test of Valor
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: King Pellinore
+passed in: King Pellinore
+name in deck: King Arthur
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: Test of Temptation
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Dragon
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Test of Valor
+passed in: King Pellinore
+name in deck: Sir Percival
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: Lance
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Test of Temptation
+passed in: King Pellinore
+name in deck: Sir Lancelot
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Test of Morgan Le Fey
+passed in: King Pellinore
+name in deck: Lance
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Test of the Questing Beast
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Giant
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Green Knight
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Excalibur
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Black Knight
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Sir Gawain
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Queen Iseult
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Black Knight
+passed in: King Pellinore
+name in deck: Robber Knight
+passed in: King Pellinore
+name in deck: Queen Guinevere
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Sir Galahad
+passed in: King Pellinore
+name in deck: Boar
+passed in: King Pellinore
+name in deck: Test of Morgan Le Fey
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Green Knight
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Black Knight
+passed in: King Pellinore
+name in deck: Test of the Questing Beast
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Dagger
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Thieves
+passed in: King Pellinore
+name in deck: AMOUR
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Horse
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Lance
+passed in: King Pellinore
+name in deck: Saxons
+passed in: King Pellinore
+name in deck: Sword
+passed in: King Pellinore
+name in deck: Saxon Knight
+passed in: King Pellinore
+name in deck: Evil Knight
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: Mordred
+passed in: King Pellinore
+name in deck: Test of Valor
+passed in: King Pellinore
+name in deck: Battle-ax
+passed in: King Pellinore
+name in deck: King Pellinore
+passed in: Dagger
+name in deck: King Arthur
+passed in: Dagger
+name in deck: Thieves
+passed in: Dagger
+name in deck: Test of Temptation
+passed in: Dagger
+name in deck: Robber Knight
+passed in: Dagger
+name in deck: Sword
+passed in: Dagger
+name in deck: Sword
+passed in: Dagger
+name in deck: Battle-ax
+passed in: Dagger
+name in deck: Dragon
+passed in: Dagger
+name in deck: Battle-ax
+passed in: Dagger
+name in deck: AMOUR
+passed in: Dagger
+name in deck: Robber Knight
+passed in: Dagger
+name in deck: AMOUR
+passed in: Dagger
+name in deck: Test of Valor
+passed in: Dagger
+name in deck: Sir Percival
+passed in: Dagger
+name in deck: Mordred
+passed in: Dagger
+name in deck: Thieves
+passed in: Dagger
+name in deck: Lance
+passed in: Dagger
+name in deck: Dagger
+passed in: Dagger
+name in deck: King Arthur
+passed in: Dagger
+name in deck: Thieves
+passed in: Dagger
+name in deck: Test of Temptation
+passed in: Dagger
+name in deck: Robber Knight
+passed in: Dagger
+name in deck: Sword
+passed in: Dagger
+name in deck: Sword
+passed in: Dagger
+name in deck: Battle-ax
+passed in: Dagger
+name in deck: Dragon
+passed in: Dagger
+name in deck: Battle-ax
+passed in: Dagger
+name in deck: AMOUR
+passed in: Dagger
+name in deck: Robber Knight
+passed in: Dagger
+name in deck: AMOUR
+passed in: Dagger
+name in deck: Test of Valor
+passed in: Dagger
+name in deck: Sir Percival
+passed in: Dagger
+name in deck: Mordred
+passed in: Dagger
+name in deck: Thieves
+passed in: Dagger
+name in deck: Lance
+passed in: Dagger
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: King Arthur
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: Test of Temptation
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Battle-ax
+passed in: Queen Iseult
+name in deck: Dragon
+passed in: Queen Iseult
+name in deck: Battle-ax
+passed in: Queen Iseult
+name in deck: AMOUR
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: AMOUR
+passed in: Queen Iseult
+name in deck: Test of Valor
+passed in: Queen Iseult
+name in deck: Sir Percival
+passed in: Queen Iseult
+name in deck: Mordred
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: Lance
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: AMOUR
+passed in: Queen Iseult
+name in deck: Test of Temptation
+passed in: Queen Iseult
+name in deck: Sir Lancelot
+passed in: Queen Iseult
+name in deck: Evil Knight
+passed in: Queen Iseult
+name in deck: Mordred
+passed in: Queen Iseult
+name in deck: Saxon Knight
+passed in: Queen Iseult
+name in deck: Battle-ax
+passed in: Queen Iseult
+name in deck: Test of Morgan Le Fey
+passed in: Queen Iseult
+name in deck: Lance
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Saxons
+passed in: Queen Iseult
+name in deck: Test of the Questing Beast
+passed in: Queen Iseult
+name in deck: Boar
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Giant
+passed in: Queen Iseult
+name in deck: Horse
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: Green Knight
+passed in: Queen Iseult
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: Excalibur
+passed in: Queen Iseult
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: Black Knight
+passed in: Queen Iseult
+name in deck: Horse
+passed in: Queen Iseult
+name in deck: Mordred
+passed in: Queen Iseult
+name in deck: Saxon Knight
+passed in: Queen Iseult
+name in deck: Sir Gawain
+passed in: Queen Iseult
+name in deck: Boar
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: Queen Iseult
+passed in: Queen Iseult
+name in deck: King Arthur
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: Test of Temptation
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Battle-ax
+passed in: Queen Iseult
+name in deck: Dragon
+passed in: Queen Iseult
+name in deck: Battle-ax
+passed in: Queen Iseult
+name in deck: AMOUR
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: AMOUR
+passed in: Queen Iseult
+name in deck: Test of Valor
+passed in: Queen Iseult
+name in deck: Sir Percival
+passed in: Queen Iseult
+name in deck: Mordred
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: Lance
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: AMOUR
+passed in: Queen Iseult
+name in deck: Test of Temptation
+passed in: Queen Iseult
+name in deck: Sir Lancelot
+passed in: Queen Iseult
+name in deck: Evil Knight
+passed in: Queen Iseult
+name in deck: Mordred
+passed in: Queen Iseult
+name in deck: Saxon Knight
+passed in: Queen Iseult
+name in deck: Battle-ax
+passed in: Queen Iseult
+name in deck: Test of Morgan Le Fey
+passed in: Queen Iseult
+name in deck: Lance
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Saxons
+passed in: Queen Iseult
+name in deck: Test of the Questing Beast
+passed in: Queen Iseult
+name in deck: Boar
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Giant
+passed in: Queen Iseult
+name in deck: Horse
+passed in: Queen Iseult
+name in deck: Sword
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: Green Knight
+passed in: Queen Iseult
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: Robber Knight
+passed in: Queen Iseult
+name in deck: Excalibur
+passed in: Queen Iseult
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: Black Knight
+passed in: Queen Iseult
+name in deck: Horse
+passed in: Queen Iseult
+name in deck: Mordred
+passed in: Queen Iseult
+name in deck: Saxon Knight
+passed in: Queen Iseult
+name in deck: Sir Gawain
+passed in: Queen Iseult
+name in deck: Boar
+passed in: Queen Iseult
+name in deck: Thieves
+passed in: Queen Iseult
+name in deck: Dagger
+passed in: Queen Iseult
+name in deck: Queen Iseult
+passed in: Black Knight
+name in deck: King Arthur
+passed in: Black Knight
+name in deck: Thieves
+passed in: Black Knight
+name in deck: Test of Temptation
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Battle-ax
+passed in: Black Knight
+name in deck: Dragon
+passed in: Black Knight
+name in deck: Battle-ax
+passed in: Black Knight
+name in deck: AMOUR
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: AMOUR
+passed in: Black Knight
+name in deck: Test of Valor
+passed in: Black Knight
+name in deck: Sir Percival
+passed in: Black Knight
+name in deck: Mordred
+passed in: Black Knight
+name in deck: Thieves
+passed in: Black Knight
+name in deck: Lance
+passed in: Black Knight
+name in deck: Thieves
+passed in: Black Knight
+name in deck: AMOUR
+passed in: Black Knight
+name in deck: Test of Temptation
+passed in: Black Knight
+name in deck: Sir Lancelot
+passed in: Black Knight
+name in deck: Evil Knight
+passed in: Black Knight
+name in deck: Mordred
+passed in: Black Knight
+name in deck: Saxon Knight
+passed in: Black Knight
+name in deck: Battle-ax
+passed in: Black Knight
+name in deck: Test of Morgan Le Fey
+passed in: Black Knight
+name in deck: Lance
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Saxons
+passed in: Black Knight
+name in deck: Test of the Questing Beast
+passed in: Black Knight
+name in deck: Boar
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Giant
+passed in: Black Knight
+name in deck: Horse
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: Green Knight
+passed in: Black Knight
+name in deck: Dagger
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: Excalibur
+passed in: Black Knight
+name in deck: Dagger
+passed in: Black Knight
+name in deck: Black Knight
+passed in: Black Knight
+name in deck: King Arthur
+passed in: Black Knight
+name in deck: Thieves
+passed in: Black Knight
+name in deck: Test of Temptation
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Battle-ax
+passed in: Black Knight
+name in deck: Dragon
+passed in: Black Knight
+name in deck: Battle-ax
+passed in: Black Knight
+name in deck: AMOUR
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: AMOUR
+passed in: Black Knight
+name in deck: Test of Valor
+passed in: Black Knight
+name in deck: Sir Percival
+passed in: Black Knight
+name in deck: Mordred
+passed in: Black Knight
+name in deck: Thieves
+passed in: Black Knight
+name in deck: Lance
+passed in: Black Knight
+name in deck: Thieves
+passed in: Black Knight
+name in deck: AMOUR
+passed in: Black Knight
+name in deck: Test of Temptation
+passed in: Black Knight
+name in deck: Sir Lancelot
+passed in: Black Knight
+name in deck: Evil Knight
+passed in: Black Knight
+name in deck: Mordred
+passed in: Black Knight
+name in deck: Saxon Knight
+passed in: Black Knight
+name in deck: Battle-ax
+passed in: Black Knight
+name in deck: Test of Morgan Le Fey
+passed in: Black Knight
+name in deck: Lance
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Saxons
+passed in: Black Knight
+name in deck: Test of the Questing Beast
+passed in: Black Knight
+name in deck: Boar
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Giant
+passed in: Black Knight
+name in deck: Horse
+passed in: Black Knight
+name in deck: Sword
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: Green Knight
+passed in: Black Knight
+name in deck: Dagger
+passed in: Black Knight
+name in deck: Robber Knight
+passed in: Black Knight
+name in deck: Excalibur
+passed in: Black Knight
+name in deck: Dagger
+passed in: Black Knight
+name in deck: Black Knight
+passed in: AMOUR
+name in deck: King Arthur
+passed in: AMOUR
+name in deck: Thieves
+passed in: AMOUR
+name in deck: Test of Temptation
+passed in: AMOUR
+name in deck: Robber Knight
+passed in: AMOUR
+name in deck: Sword
+passed in: AMOUR
+name in deck: Sword
+passed in: AMOUR
+name in deck: Battle-ax
+passed in: AMOUR
+name in deck: Dragon
+passed in: AMOUR
+name in deck: Battle-ax
+passed in: AMOUR
+name in deck: AMOUR
+passed in: AMOUR
+name in deck: King Arthur
+passed in: AMOUR
+name in deck: Thieves
+passed in: AMOUR
+name in deck: Test of Temptation
+passed in: AMOUR
+name in deck: Robber Knight
+passed in: AMOUR
+name in deck: Sword
+passed in: AMOUR
+name in deck: Sword
+passed in: AMOUR
+name in deck: Battle-ax
+passed in: AMOUR
+name in deck: Dragon
+passed in: AMOUR
+name in deck: Battle-ax
+passed in: AMOUR
+name in deck: AMOUR
+passed in: Test of the Questing Beast
+name in deck: King Arthur
+passed in: Test of the Questing Beast
+name in deck: Thieves
+passed in: Test of the Questing Beast
+name in deck: Test of Temptation
+passed in: Test of the Questing Beast
+name in deck: Robber Knight
+passed in: Test of the Questing Beast
+name in deck: Sword
+passed in: Test of the Questing Beast
+name in deck: Sword
+passed in: Test of the Questing Beast
+name in deck: Battle-ax
+passed in: Test of the Questing Beast
+name in deck: Dragon
+passed in: Test of the Questing Beast
+name in deck: Battle-ax
+passed in: Test of the Questing Beast
+name in deck: Robber Knight
+passed in: Test of the Questing Beast
+name in deck: AMOUR
+passed in: Test of the Questing Beast
+name in deck: Test of Valor
+passed in: Test of the Questing Beast
+name in deck: Sir Percival
+passed in: Test of the Questing Beast
+name in deck: Mordred
+passed in: Test of the Questing Beast
+name in deck: Thieves
+passed in: Test of the Questing Beast
+name in deck: Lance
+passed in: Test of the Questing Beast
+name in deck: Thieves
+passed in: Test of the Questing Beast
+name in deck: AMOUR
+passed in: Test of the Questing Beast
+name in deck: Test of Temptation
+passed in: Test of the Questing Beast
+name in deck: Sir Lancelot
+passed in: Test of the Questing Beast
+name in deck: Evil Knight
+passed in: Test of the Questing Beast
+name in deck: Mordred
+passed in: Test of the Questing Beast
+name in deck: Saxon Knight
+passed in: Test of the Questing Beast
+name in deck: Battle-ax
+passed in: Test of the Questing Beast
+name in deck: Test of Morgan Le Fey
+passed in: Test of the Questing Beast
+name in deck: Lance
+passed in: Test of the Questing Beast
+name in deck: Sword
+passed in: Test of the Questing Beast
+name in deck: Saxons
+passed in: Test of the Questing Beast
+name in deck: Test of the Questing Beast
+passed in: Test of the Questing Beast
+name in deck: King Arthur
+passed in: Test of the Questing Beast
+name in deck: Thieves
+passed in: Test of the Questing Beast
+name in deck: Test of Temptation
+passed in: Test of the Questing Beast
+name in deck: Robber Knight
+passed in: Test of the Questing Beast
+name in deck: Sword
+passed in: Test of the Questing Beast
+name in deck: Sword
+passed in: Test of the Questing Beast
+name in deck: Battle-ax
+passed in: Test of the Questing Beast
+name in deck: Dragon
+passed in: Test of the Questing Beast
+name in deck: Battle-ax
+passed in: Test of the Questing Beast
+name in deck: Robber Knight
+passed in: Test of the Questing Beast
+name in deck: AMOUR
+passed in: Test of the Questing Beast
+name in deck: Test of Valor
+passed in: Test of the Questing Beast
+name in deck: Sir Percival
+passed in: Test of the Questing Beast
+name in deck: Mordred
+passed in: Test of the Questing Beast
+name in deck: Thieves
+passed in: Test of the Questing Beast
+name in deck: Lance
+passed in: Test of the Questing Beast
+name in deck: Thieves
+passed in: Test of the Questing Beast
+name in deck: AMOUR
+passed in: Test of the Questing Beast
+name in deck: Test of Temptation
+passed in: Test of the Questing Beast
+name in deck: Sir Lancelot
+passed in: Test of the Questing Beast
+name in deck: Evil Knight
+passed in: Test of the Questing Beast
+name in deck: Mordred
+passed in: Test of the Questing Beast
+name in deck: Saxon Knight
+passed in: Test of the Questing Beast
+name in deck: Battle-ax
+passed in: Test of the Questing Beast
+name in deck: Test of Morgan Le Fey
+passed in: Test of the Questing Beast
+name in deck: Lance
+passed in: Test of the Questing Beast
+name in deck: Sword
+passed in: Test of the Questing Beast
+name in deck: Saxons
+passed in: Test of the Questing Beast
+name in deck: Test of the Questing Beast
+passed in: Thieves
+name in deck: King Arthur
+passed in: Thieves
+name in deck: Thieves
+passed in: Thieves
+name in deck: King Arthur
+passed in: Thieves
+name in deck: Thieves
+passed in: Green Knight
+name in deck: King Arthur
+passed in: Green Knight
+name in deck: Test of Temptation
+passed in: Green Knight
+name in deck: Robber Knight
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Battle-ax
+passed in: Green Knight
+name in deck: Dragon
+passed in: Green Knight
+name in deck: Battle-ax
+passed in: Green Knight
+name in deck: Robber Knight
+passed in: Green Knight
+name in deck: AMOUR
+passed in: Green Knight
+name in deck: Test of Valor
+passed in: Green Knight
+name in deck: Sir Percival
+passed in: Green Knight
+name in deck: Mordred
+passed in: Green Knight
+name in deck: Thieves
+passed in: Green Knight
+name in deck: Lance
+passed in: Green Knight
+name in deck: Thieves
+passed in: Green Knight
+name in deck: AMOUR
+passed in: Green Knight
+name in deck: Test of Temptation
+passed in: Green Knight
+name in deck: Sir Lancelot
+passed in: Green Knight
+name in deck: Evil Knight
+passed in: Green Knight
+name in deck: Mordred
+passed in: Green Knight
+name in deck: Saxon Knight
+passed in: Green Knight
+name in deck: Battle-ax
+passed in: Green Knight
+name in deck: Test of Morgan Le Fey
+passed in: Green Knight
+name in deck: Lance
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Saxons
+passed in: Green Knight
+name in deck: Boar
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Giant
+passed in: Green Knight
+name in deck: Horse
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Robber Knight
+passed in: Green Knight
+name in deck: Green Knight
+passed in: Green Knight
+name in deck: King Arthur
+passed in: Green Knight
+name in deck: Test of Temptation
+passed in: Green Knight
+name in deck: Robber Knight
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Battle-ax
+passed in: Green Knight
+name in deck: Dragon
+passed in: Green Knight
+name in deck: Battle-ax
+passed in: Green Knight
+name in deck: Robber Knight
+passed in: Green Knight
+name in deck: AMOUR
+passed in: Green Knight
+name in deck: Test of Valor
+passed in: Green Knight
+name in deck: Sir Percival
+passed in: Green Knight
+name in deck: Mordred
+passed in: Green Knight
+name in deck: Thieves
+passed in: Green Knight
+name in deck: Lance
+passed in: Green Knight
+name in deck: Thieves
+passed in: Green Knight
+name in deck: AMOUR
+passed in: Green Knight
+name in deck: Test of Temptation
+passed in: Green Knight
+name in deck: Sir Lancelot
+passed in: Green Knight
+name in deck: Evil Knight
+passed in: Green Knight
+name in deck: Mordred
+passed in: Green Knight
+name in deck: Saxon Knight
+passed in: Green Knight
+name in deck: Battle-ax
+passed in: Green Knight
+name in deck: Test of Morgan Le Fey
+passed in: Green Knight
+name in deck: Lance
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Saxons
+passed in: Green Knight
+name in deck: Boar
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Giant
+passed in: Green Knight
+name in deck: Horse
+passed in: Green Knight
+name in deck: Sword
+passed in: Green Knight
+name in deck: Robber Knight
+passed in: Green Knight
+name in deck: Green Knight
+passed in: Saxon Knight
+name in deck: King Arthur
+passed in: Saxon Knight
+name in deck: Test of Temptation
+passed in: Saxon Knight
+name in deck: Robber Knight
+passed in: Saxon Knight
+name in deck: Sword
+passed in: Saxon Knight
+name in deck: Sword
+passed in: Saxon Knight
+name in deck: Battle-ax
+passed in: Saxon Knight
+name in deck: Dragon
+passed in: Saxon Knight
+name in deck: Battle-ax
+passed in: Saxon Knight
+name in deck: Robber Knight
+passed in: Saxon Knight
+name in deck: AMOUR
+passed in: Saxon Knight
+name in deck: Test of Valor
+passed in: Saxon Knight
+name in deck: Sir Percival
+passed in: Saxon Knight
+name in deck: Mordred
+passed in: Saxon Knight
+name in deck: Thieves
+passed in: Saxon Knight
+name in deck: Lance
+passed in: Saxon Knight
+name in deck: Thieves
+passed in: Saxon Knight
+name in deck: AMOUR
+passed in: Saxon Knight
+name in deck: Test of Temptation
+passed in: Saxon Knight
+name in deck: Sir Lancelot
+passed in: Saxon Knight
+name in deck: Evil Knight
+passed in: Saxon Knight
+name in deck: Mordred
+passed in: Saxon Knight
+name in deck: Saxon Knight
+passed in: Saxon Knight
+name in deck: King Arthur
+passed in: Saxon Knight
+name in deck: Test of Temptation
+passed in: Saxon Knight
+name in deck: Robber Knight
+passed in: Saxon Knight
+name in deck: Sword
+passed in: Saxon Knight
+name in deck: Sword
+passed in: Saxon Knight
+name in deck: Battle-ax
+passed in: Saxon Knight
+name in deck: Dragon
+passed in: Saxon Knight
+name in deck: Battle-ax
+passed in: Saxon Knight
+name in deck: Robber Knight
+passed in: Saxon Knight
+name in deck: AMOUR
+passed in: Saxon Knight
+name in deck: Test of Valor
+passed in: Saxon Knight
+name in deck: Sir Percival
+passed in: Saxon Knight
+name in deck: Mordred
+passed in: Saxon Knight
+name in deck: Thieves
+passed in: Saxon Knight
+name in deck: Lance
+passed in: Saxon Knight
+name in deck: Thieves
+passed in: Saxon Knight
+name in deck: AMOUR
+passed in: Saxon Knight
+name in deck: Test of Temptation
+passed in: Saxon Knight
+name in deck: Sir Lancelot
+passed in: Saxon Knight
+name in deck: Evil Knight
+passed in: Saxon Knight
+name in deck: Mordred
+passed in: Saxon Knight
+name in deck: Saxon Knight
+passed in: Giant
+name in deck: King Arthur
+passed in: Giant
+name in deck: Test of Temptation
+passed in: Giant
+name in deck: Robber Knight
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Battle-ax
+passed in: Giant
+name in deck: Dragon
+passed in: Giant
+name in deck: Battle-ax
+passed in: Giant
+name in deck: Robber Knight
+passed in: Giant
+name in deck: AMOUR
+passed in: Giant
+name in deck: Test of Valor
+passed in: Giant
+name in deck: Sir Percival
+passed in: Giant
+name in deck: Mordred
+passed in: Giant
+name in deck: Thieves
+passed in: Giant
+name in deck: Lance
+passed in: Giant
+name in deck: Thieves
+passed in: Giant
+name in deck: AMOUR
+passed in: Giant
+name in deck: Test of Temptation
+passed in: Giant
+name in deck: Sir Lancelot
+passed in: Giant
+name in deck: Evil Knight
+passed in: Giant
+name in deck: Mordred
+passed in: Giant
+name in deck: Battle-ax
+passed in: Giant
+name in deck: Test of Morgan Le Fey
+passed in: Giant
+name in deck: Lance
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Saxons
+passed in: Giant
+name in deck: Boar
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Giant
+passed in: Giant
+name in deck: King Arthur
+passed in: Giant
+name in deck: Test of Temptation
+passed in: Giant
+name in deck: Robber Knight
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Battle-ax
+passed in: Giant
+name in deck: Dragon
+passed in: Giant
+name in deck: Battle-ax
+passed in: Giant
+name in deck: Robber Knight
+passed in: Giant
+name in deck: AMOUR
+passed in: Giant
+name in deck: Test of Valor
+passed in: Giant
+name in deck: Sir Percival
+passed in: Giant
+name in deck: Mordred
+passed in: Giant
+name in deck: Thieves
+passed in: Giant
+name in deck: Lance
+passed in: Giant
+name in deck: Thieves
+passed in: Giant
+name in deck: AMOUR
+passed in: Giant
+name in deck: Test of Temptation
+passed in: Giant
+name in deck: Sir Lancelot
+passed in: Giant
+name in deck: Evil Knight
+passed in: Giant
+name in deck: Mordred
+passed in: Giant
+name in deck: Battle-ax
+passed in: Giant
+name in deck: Test of Morgan Le Fey
+passed in: Giant
+name in deck: Lance
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Saxons
+passed in: Giant
+name in deck: Boar
+passed in: Giant
+name in deck: Sword
+passed in: Giant
+name in deck: Giant
+passed in: King Arthur
+name in deck: King Arthur
+passed in: King Arthur
+name in deck: King Arthur
+passed in: Sir Lancelot
+name in deck: Test of Temptation
+passed in: Sir Lancelot
+name in deck: Robber Knight
+passed in: Sir Lancelot
+name in deck: Sword
+passed in: Sir Lancelot
+name in deck: Sword
+passed in: Sir Lancelot
+name in deck: Battle-ax
+passed in: Sir Lancelot
+name in deck: Dragon
+passed in: Sir Lancelot
+name in deck: Battle-ax
+passed in: Sir Lancelot
+name in deck: Robber Knight
+passed in: Sir Lancelot
+name in deck: AMOUR
+passed in: Sir Lancelot
+name in deck: Test of Valor
+passed in: Sir Lancelot
+name in deck: Sir Percival
+passed in: Sir Lancelot
+name in deck: Mordred
+passed in: Sir Lancelot
+name in deck: Thieves
+passed in: Sir Lancelot
+name in deck: Lance
+passed in: Sir Lancelot
+name in deck: Thieves
+passed in: Sir Lancelot
+name in deck: AMOUR
+passed in: Sir Lancelot
+name in deck: Test of Temptation
+passed in: Sir Lancelot
+name in deck: Sir Lancelot
+passed in: Sir Lancelot
+name in deck: Test of Temptation
+passed in: Sir Lancelot
+name in deck: Robber Knight
+passed in: Sir Lancelot
+name in deck: Sword
+passed in: Sir Lancelot
+name in deck: Sword
+passed in: Sir Lancelot
+name in deck: Battle-ax
+passed in: Sir Lancelot
+name in deck: Dragon
+passed in: Sir Lancelot
+name in deck: Battle-ax
+passed in: Sir Lancelot
+name in deck: Robber Knight
+passed in: Sir Lancelot
+name in deck: AMOUR
+passed in: Sir Lancelot
+name in deck: Test of Valor
+passed in: Sir Lancelot
+name in deck: Sir Percival
+passed in: Sir Lancelot
+name in deck: Mordred
+passed in: Sir Lancelot
+name in deck: Thieves
+passed in: Sir Lancelot
+name in deck: Lance
+passed in: Sir Lancelot
+name in deck: Thieves
+passed in: Sir Lancelot
+name in deck: AMOUR
+passed in: Sir Lancelot
+name in deck: Test of Temptation
+passed in: Sir Lancelot
+name in deck: Sir Lancelot
+passed in: Thieves
+name in deck: Test of Temptation
+passed in: Thieves
+name in deck: Robber Knight
+passed in: Thieves
+name in deck: Sword
+passed in: Thieves
+name in deck: Sword
+passed in: Thieves
+name in deck: Battle-ax
+passed in: Thieves
+name in deck: Dragon
+passed in: Thieves
+name in deck: Battle-ax
+passed in: Thieves
+name in deck: Robber Knight
+passed in: Thieves
+name in deck: AMOUR
+passed in: Thieves
+name in deck: Test of Valor
+passed in: Thieves
+name in deck: Sir Percival
+passed in: Thieves
+name in deck: Mordred
+passed in: Thieves
+name in deck: Thieves
+passed in: Thieves
+name in deck: Test of Temptation
+passed in: Thieves
+name in deck: Robber Knight
+passed in: Thieves
+name in deck: Sword
+passed in: Thieves
+name in deck: Sword
+passed in: Thieves
+name in deck: Battle-ax
+passed in: Thieves
+name in deck: Dragon
+passed in: Thieves
+name in deck: Battle-ax
+passed in: Thieves
+name in deck: Robber Knight
+passed in: Thieves
+name in deck: AMOUR
+passed in: Thieves
+name in deck: Test of Valor
+passed in: Thieves
+name in deck: Sir Percival
+passed in: Thieves
+name in deck: Mordred
+passed in: Thieves
+name in deck: Thieves
+Story: Slay the Dragon
+Begin questBehaviour.play()
+Begin questBehaviour.selectSponsor()
+false
+about to do this check:
+false
+was the value of isSponsoring saved?
+false
+false
+about to do this check:
+false
+was the value of isSponsoring saved?
+false
+false
+about to do this check:
+true
+was the value of isSponsoring saved?
+true
+Player 4 agreed to sponsor!
+Thieves is NOT special!
+Thieves is NOT special!
+Green Knight is NOT special!
+Exit questBehaviour.selectSponsor()
+Sponsor chosen!
+Begin questBehaviour.selectParticipants()
+Exit questBehaviour.selectParticipants()
+Thieves is NOT special!
+Green Knight is NOT special!
+Player 4 is awarded 6 cards for sponsoring!
+Exit questBehaviour.play()
+Story: Defend the Queen's Honor

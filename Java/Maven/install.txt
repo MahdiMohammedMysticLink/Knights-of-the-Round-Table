@@ -1,0 +1,13 @@
+to build the project, open this repository inside of java eclipse.
+Then, click file->export as runnable jar. The jar file must be placed in a directory
+that has the /src/resources/newCards directory with all of the card images, as well
+as the two stylesheets stylesheet.css, stylesheet2.css, and the font DUKEPLUSS.TTF
+as well as the two jpg background images, drawn-wallpaper-cloud-2.jpg, and
+Medieval-Wallpaper-HD.jpg. Optionally, just place the jar inside of 
+Team50COMP3004Winter2018\Java\Maven. There should already be a jar(s) there that
+you can run. To play the game, read the readme.txt file located in the same directory
+as this file.
+
+****make sure that the jar file is running in a directory where the full file path to it 
+has no spaces! this is currently a bug in Java 8, where the css files won't load!!!!!!!**********
+

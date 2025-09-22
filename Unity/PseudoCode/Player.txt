@@ -1,0 +1,50 @@
+class Player{
+
+	string name, rank, type;
+
+	//Lists would be easier 
+	List <Card> cards; 
+
+	int shields;
+
+	Player(string n, string r, string t){
+
+		name = n;
+
+		rank = r;
+
+		type = t;
+
+		shields = 0;
+
+	}
+
+	bool discardCard(string type)
+	{
+		bool status = false;
+		
+		//Discards card in cards with matching type
+		if(type == "Weapon")
+		{
+			//Discard weapon card, if discarded alter status
+			status = true;
+		}
+		else if(type == "Foe")
+		{
+			//Discard foe card, if discarded alter status
+			status = true;
+		}
+		
+		return status;
+
+	}
+
+
+
+	_ playCard(){
+
+		//Enter phase where the player has to play a single card
+
+	}
+
+}

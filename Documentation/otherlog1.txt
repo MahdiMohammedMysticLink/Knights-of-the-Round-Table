@@ -1,0 +1,9223 @@
+AdventureDeck
+AdventureDeck
+initializing a new adventure deck
+
+AdventureDeck
+shuffleCards
+shuffling cards, the deck was:
+Excalibur
+Excalibur
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Battle-ax
+Dagger
+Dagger
+Dagger
+Dagger
+Dagger
+Dagger
+Horse
+Horse
+Horse
+Horse
+Horse
+Horse
+Horse
+Horse
+Horse
+Horse
+Horse
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Sword
+Lance
+Lance
+Lance
+Lance
+Lance
+Lance
+Dragon
+Giant
+Giant
+Mordred
+Mordred
+Mordred
+Mordred
+Thieves
+Thieves
+Thieves
+Thieves
+Thieves
+Thieves
+Thieves
+Thieves
+Evil Knight
+Evil Knight
+Evil Knight
+Evil Knight
+Evil Knight
+Evil Knight
+Boar
+Boar
+Boar
+Boar
+Robber Knight
+Robber Knight
+Robber Knight
+Robber Knight
+Robber Knight
+Robber Knight
+Robber Knight
+Black Knight
+Black Knight
+Black Knight
+Green Knight
+Green Knight
+Saxon Knight
+Saxon Knight
+Saxon Knight
+Saxon Knight
+Saxon Knight
+Saxon Knight
+Saxon Knight
+Saxon Knight
+Saxons
+Saxons
+Saxons
+Saxons
+Saxons
+Sir Gawain
+King Pellinore
+Sir Percival
+Sir Tristan
+King Arthur
+Queen Guinevere
+Queen Iseult
+Sir Lancelot
+Sir Galahad
+AMOUR
+AMOUR
+AMOUR
+AMOUR
+AMOUR
+AMOUR
+AMOUR
+AMOUR
+Test of the Questing Beast
+Test of the Questing Beast
+Test of Temptation
+Test of Temptation
+Test of Valor
+Test of Valor
+Test of Morgan Le Fey
+Test of Morgan Le Fey
+
+
+AdventureDeck
+shuffleCards
+the deck is now:
+Robber Knight
+Sword
+Queen Guinevere
+Sword
+Horse
+Battle-ax
+Lance
+Sir Percival
+Lance
+Green Knight
+Sir Tristan
+Evil Knight
+Thieves
+Sword
+Robber Knight
+Robber Knight
+Thieves
+Horse
+Sir Galahad
+Battle-ax
+Thieves
+Sword
+Giant
+Sword
+Horse
+Green Knight
+Thieves
+Sword
+Test of Valor
+Sword
+Evil Knight
+Sword
+AMOUR
+Battle-ax
+Lance
+Horse
+Mordred
+AMOUR
+Boar
+Boar
+Battle-ax
+AMOUR
+AMOUR
+Thieves
+Saxon Knight
+Sword
+Saxon Knight
+Black Knight
+Horse
+Horse
+Test of the Questing Beast
+Saxon Knight
+Battle-ax
+Dagger
+Evil Knight
+Sir Gawain
+Thieves
+AMOUR
+Saxon Knight
+Lance
+Horse
+Test of Morgan Le Fey
+Horse
+Horse
+Test of Morgan Le Fey
+Evil Knight
+Saxons
+Thieves
+Mordred
+Robber Knight
+Horse
+Test of Temptation
+Saxon Knight
+Battle-ax
+Excalibur
+Saxon Knight
+Test of Temptation
+Dagger
+AMOUR
+Dragon
+Battle-ax
+Sword
+Dagger
+Sword
+Horse
+Sword
+Evil Knight
+Test of the Questing Beast
+Battle-ax
+Evil Knight
+AMOUR
+Sword
+Sir Lancelot
+Giant
+Sword
+Black Knight
+Saxons
+Black Knight
+Test of Valor
+Saxons
+Robber Knight
+Robber Knight
+King Arthur
+Lance
+Saxon Knight
+King Pellinore
+Battle-ax
+Saxon Knight
+Excalibur
+Saxons
+Sword
+Mordred
+Thieves
+Mordred
+Sword
+Boar
+Queen Iseult
+Boar
+Robber Knight
+Dagger
+Lance
+Dagger
+Saxons
+AMOUR
+Dagger
+Battle-ax
+
+
+StoryDeck
+StoryDeck
+initializing
+
+storyDeckFactory
+buildDeck
+Quests cards added to deck
+
+storyDeckFactory
+buildDeck
+Events cards added to deck
+
+storyDeckFactory
+buildDeck
+Tournaments cards added to deck
+
+StoryDeck
+shuffleCards
+shuffling cards, the deck was:
+Search for the Holy Grail
+Test of the Green Knight
+Search for the Questing Beast
+Defend the Queen's Honor
+Rescue the Fair Maiden
+Journey through the Enchanted Forest
+Vanquish King Arthur's Enemies
+Vanquish King Arthur's Enemies
+Slay the Dragon
+Boar Hunt
+Boar Hunt
+Repel the Saxon Raiders
+Repel the Saxon Raiders
+King's Recognition
+King's Recognition
+Queen's Favor
+Queen's Favor
+Court Called Camelot
+Court Called Camelot
+Pox
+Plague
+Chivalrous Deed
+Prosperity Throughout the Realm
+King's Call to Arms
+Camelot
+Orkney
+Tintagel
+York
+
+
+StoryDeck
+shuffleCards
+the deck is now:
+Slay the Dragon
+Journey through the Enchanted Forest
+Chivalrous Deed
+Vanquish King Arthur's Enemies
+Court Called Camelot
+Camelot
+Queen's Favor
+Repel the Saxon Raiders
+Prosperity Throughout the Realm
+York
+Defend the Queen's Honor
+Orkney
+Test of the Green Knight
+Repel the Saxon Raiders
+Plague
+Boar Hunt
+Pox
+Vanquish King Arthur's Enemies
+Search for the Holy Grail
+Court Called Camelot
+King's Recognition
+Rescue the Fair Maiden
+Boar Hunt
+Search for the Questing Beast
+King's Recognition
+King's Call to Arms
+Queen's Favor
+Tintagel
+
+
+Model
+initPlayers
+4 human players are playing
+
+Model
+initPlayers
+0 AI players are playing
+
+Model
+play
+adding cards for Player 4
+
+AdventureDeck
+dealCard
+dealing the card Saxons
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 4: Saxons
+
+AdventureDeck
+dealCard
+dealing the card Robber Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 4: Robber Knight
+
+AdventureDeck
+dealCard
+dealing the card Test of Valor
+
+PlayerDeck
+add
+Adventure card typeTEST added
+
+Player
+addcard
+added a card for Player 4: Test of Valor
+
+AdventureDeck
+dealCard
+dealing the card Test of the Questing Beast
+
+PlayerDeck
+add
+Adventure card typeTEST added
+
+Player
+addcard
+added a card for Player 4: Test of the Questing Beast
+
+AdventureDeck
+dealCard
+dealing the card Battle-ax
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Battle-ax
+
+AdventureDeck
+dealCard
+dealing the card Battle-ax
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Battle-ax
+
+AdventureDeck
+dealCard
+dealing the card Battle-ax
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Battle-ax
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Horse
+
+AdventureDeck
+dealCard
+dealing the card Mordred
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 4: Mordred
+
+AdventureDeck
+dealCard
+dealing the card AMOUR
+
+PlayerDeck
+add
+Adventure card typeAMOUR added
+
+Player
+addcard
+added a card for Player 4: AMOUR
+
+AdventureDeck
+dealCard
+dealing the card Sir Tristan
+
+PlayerDeck
+add
+Adventure card typeALLY added
+
+Player
+addcard
+added a card for Player 4: Sir Tristan
+
+AdventureDeck
+dealCard
+dealing the card Sword
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Sword
+
+Model
+play
+adding cards for Player 3
+
+AdventureDeck
+dealCard
+dealing the card Sword
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 3: Sword
+
+AdventureDeck
+dealCard
+dealing the card Thieves
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Thieves
+
+AdventureDeck
+dealCard
+dealing the card Sword
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 3: Sword
+
+AdventureDeck
+dealCard
+dealing the card Boar
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Boar
+
+AdventureDeck
+dealCard
+dealing the card Robber Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Robber Knight
+
+AdventureDeck
+dealCard
+dealing the card Thieves
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Thieves
+
+AdventureDeck
+dealCard
+dealing the card AMOUR
+
+PlayerDeck
+add
+Adventure card typeAMOUR added
+
+Player
+addcard
+added a card for Player 3: AMOUR
+
+AdventureDeck
+dealCard
+dealing the card Saxon Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Saxon Knight
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 3: Horse
+
+AdventureDeck
+dealCard
+dealing the card Dagger
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 3: Dagger
+
+AdventureDeck
+dealCard
+dealing the card Sir Galahad
+
+PlayerDeck
+add
+Adventure card typeALLY added
+
+Player
+addcard
+added a card for Player 3: Sir Galahad
+
+AdventureDeck
+dealCard
+dealing the card Saxon Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Saxon Knight
+
+Model
+play
+adding cards for Player 1
+
+AdventureDeck
+dealCard
+dealing the card Thieves
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Thieves
+
+AdventureDeck
+dealCard
+dealing the card Green Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Green Knight
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 1: Horse
+
+AdventureDeck
+dealCard
+dealing the card AMOUR
+
+PlayerDeck
+add
+Adventure card typeAMOUR added
+
+Player
+addcard
+added a card for Player 1: AMOUR
+
+AdventureDeck
+dealCard
+dealing the card Test of Temptation
+
+PlayerDeck
+add
+Adventure card typeTEST added
+
+Player
+addcard
+added a card for Player 1: Test of Temptation
+
+AdventureDeck
+dealCard
+dealing the card Thieves
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Thieves
+
+AdventureDeck
+dealCard
+dealing the card Battle-ax
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 1: Battle-ax
+
+AdventureDeck
+dealCard
+dealing the card Sir Lancelot
+
+PlayerDeck
+add
+Adventure card typeALLY added
+
+Player
+addcard
+added a card for Player 1: Sir Lancelot
+
+AdventureDeck
+dealCard
+dealing the card Sir Percival
+
+PlayerDeck
+add
+Adventure card typeALLY added
+
+Player
+addcard
+added a card for Player 1: Sir Percival
+
+AdventureDeck
+dealCard
+dealing the card Black Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Black Knight
+
+AdventureDeck
+dealCard
+dealing the card Boar
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Boar
+
+AdventureDeck
+dealCard
+dealing the card Battle-ax
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 1: Battle-ax
+
+Model
+play
+adding cards for Player 2
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Horse
+
+AdventureDeck
+dealCard
+dealing the card Evil Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Evil Knight
+
+AdventureDeck
+dealCard
+dealing the card Excalibur
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Excalibur
+
+AdventureDeck
+dealCard
+dealing the card Dagger
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Dagger
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Horse
+
+AdventureDeck
+dealCard
+dealing the card Dagger
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Dagger
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Horse
+
+AdventureDeck
+dealCard
+dealing the card Robber Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Robber Knight
+
+AdventureDeck
+dealCard
+dealing the card Evil Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Evil Knight
+
+AdventureDeck
+dealCard
+dealing the card Saxons
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Saxons
+
+AdventureDeck
+dealCard
+dealing the card Mordred
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Mordred
+
+AdventureDeck
+dealCard
+dealing the card Horse
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Horse
+
+StoryDeck
+draw
+drawing a card: Camelot
+
+Model
+play
+Story: Camelot
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+Model
+displayStory
+Story: Camelot to be displayed to all players.
+
+Player
+displayStory
+Player 4is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 4
+
+Player
+displayStory
+Player 3is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 3
+
+Player
+displayStory
+Player 1is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 1
+
+Player
+displayStory
+Player 2is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Sword]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Dagger, Horse, Dagger, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Sword, Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Dagger, Sir Galahad, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Battle-ax, Sir Lancelot, Sir Percival, Black Knight, Boar, Battle-ax]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 1
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 2
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 3
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 4
+
+tournamentBehaviour
+isTristanInPlay
+Checking if Queen Iseult is in play with a set of players
+
+tournamentBehaviour
+isTristanInPlay
+Queen Iseult is in not play with the (perhaps limited) players checked.
+
+tournamentBehaviour
+isTristanInPlay
+Checking if  Sir Tristan is in play with a set of players
+
+tournamentBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+tournamentBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+tournamentBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+tournamentBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+tournamentBehaviour
+setPlayersFinishedTurnToFalse
+Setting Players hasFinishedTurn to false
+
+tournamentBehaviour
+setPlayersFinishedTurnToFalse
+Player 4 hasFinishedTurn set to false
+
+tournamentBehaviour
+setPlayersFinishedTurnToFalse
+Player 3 hasFinishedTurn set to false
+
+tournamentBehaviour
+setPlayersFinishedTurnToFalse
+Player 1 hasFinishedTurn set to false
+
+tournamentBehaviour
+setPlayersFinishedTurnToFalse
+Player 2 hasFinishedTurn set to false
+
+tournamentBehaviour
+selectParticipants
+Asking players if they want to participate in tournament: Camelot
+
+humanBehaviour
+doIParticipate
+sending data to client for Player 4
+
+humanBehaviour
+doIParticipate
+sending data to client for Player 3
+
+humanBehaviour
+doIParticipate
+sending data to client for Player 1
+
+humanBehaviour
+doIParticipate
+sending data to client for Player 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Sword, Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Dagger, Sir Galahad, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Battle-ax, Sir Lancelot, Sir Percival, Black Knight, Boar, Battle-ax]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Sword]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Dagger, Horse, Dagger, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+tournamentBehaviour
+selectParticipants
+Total participants:0
+
+tournamentBehaviour
+play
+Participants size:0
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Prosperity Throughout the Realm
+
+Model
+play
+Story: Prosperity Throughout the Realm
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+Model
+displayStory
+Story: Prosperity Throughout the Realm to be displayed to all players.
+
+eventBehaviour 
+play
+Event: Prosperity Throughout the Realm
+
+eventBehaviour
+play
+All players are awared 2 cards.
+
+eventBehaviour
+play
+Player 3 is awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Queen Guinevere
+
+PlayerDeck
+add
+Adventure card typeALLY added
+
+Player
+addcard
+added a card for Player 3: Queen Guinevere
+
+AdventureDeck
+dealCard
+dealing the card King Arthur
+
+PlayerDeck
+add
+Adventure card typeALLY added
+
+Player
+addcard
+added a card for Player 3: King Arthur
+
+eventBehaviour
+play
+Player 1 is awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Green Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Green Knight
+
+AdventureDeck
+dealCard
+dealing the card Mordred
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Mordred
+
+eventBehaviour
+play
+Player 2 is awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Battle-ax
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Battle-ax
+
+AdventureDeck
+dealCard
+dealing the card Saxon Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Saxon Knight
+
+eventBehaviour
+play
+Player 4 is awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Excalibur
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Excalibur
+
+AdventureDeck
+dealCard
+dealing the card Test of the Questing Beast
+
+PlayerDeck
+add
+Adventure card typeTEST added
+
+Player
+addcard
+added a card for Player 4: Test of the Questing Beast
+
+eventBehaviour
+updateAllPlayers
+Updating all players with information about all players
+
+eventBehaviour
+updateAllPlayers
+Player 3 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+eventBehaviour
+updateAllPlayers
+Player 1 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+eventBehaviour
+updateAllPlayers
+Player 2 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+eventBehaviour
+updateAllPlayers
+Player 4 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 3
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 1
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 2
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 4
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@4235d0fc
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@5e40ad06
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@34f0f32a
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@66b96328
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+sending data to client for Player 3
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+sending data to client for Player 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+sending data to client for Player 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+sending data to client for Player 4
+
+Utility
+playerDeckCards
+Player deck cards list: [Sword, Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Dagger, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Battle-ax, Sir Lancelot, Sir Percival, Black Knight, Boar, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Dagger, Horse, Dagger, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Sword, Excalibur, Test of the Questing Beast]
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Battle-ax to the discard pile
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+Retrieved data from client for Player 4
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+humanBehaviour
+decideCardsToDiscard
+sending data to client for Player 4
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Sword, Excalibur, Test of the Questing Beast]
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Dagger to the discard pile
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Sword to the discard pile
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 3 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+Retrieved data from client for Player 3
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Sword to the discard pile
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 4 is deciding which cards to discard. Must discard 1
+
+humanBehaviour
+decideCardsToDiscard
+Retrieved data from client for Player 4
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Battle-ax to the discard pile
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+Retrieved data from client for Player 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+humanBehaviour
+decideCardsToDiscard
+sending data to client for Player 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Boar, Battle-ax, Green Knight, Mordred]
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+PlayerDeck
+remove
+Adventure card typeFOE removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Boar to the discard pile
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 1 is deciding which cards to discard. Must discard 1
+
+humanBehaviour
+decideCardsToDiscard
+Retrieved data from client for Player 1
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+AdventureDeck
+addToDiscardPile
+adding Dagger to the discard pile
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+PlayerDeck
+remove
+Adventure card typeWEAPON removed
+
+PlayerDeck
+isFound
+Deck name found
+
+AdventureDeck
+addToDiscardPile
+adding Dagger to the discard pile
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+Player
+decideCardsToDiscard
+Player 2 is deciding which cards to discard. Must discard 2
+
+humanBehaviour
+decideCardsToDiscard
+Retrieved data from client for Player 2
+
+eventBehaviour
+updateAllPlayers
+Updating all players with information about all players
+
+eventBehaviour
+updateAllPlayers
+Player 3 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+eventBehaviour
+updateAllPlayers
+Player 1 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+eventBehaviour
+updateAllPlayers
+Player 2 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+eventBehaviour
+updateAllPlayers
+Player 4 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Repel the Saxon Raiders
+
+Model
+play
+Story: Repel the Saxon Raiders
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+Model
+displayStory
+Story: Repel the Saxon Raiders to be displayed to all players.
+
+questBehaviour
+play
+Playing: Repel the Saxon Raiders
+
+questBehaviour
+play
+Checking all players to see if  Sir Tristan and Queen are in play  
+
+questBehaviour
+isTristanInPlay
+Checking if Queen Iseult is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Queen Iseult is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Checking if  Sir Tristan is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 1 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 1
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 2 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 4 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 4
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 3 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 3
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+questBehaviour
+play
+Sponsor has not been chosen
+
+questBehaviour
+play
+Quest behaviour is complete
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Plague
+
+Model
+play
+Story: Plague
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+Model
+displayStory
+Story: Plague to be displayed to all players.
+
+Player
+displayStory
+Player 2is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 2
+
+Player
+displayStory
+Player 4is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 4
+
+Player
+displayStory
+Player 3is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 3
+
+Player
+displayStory
+Player 1is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 1
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 1
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 2
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 3
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 4
+
+eventBehaviour 
+play
+Event: Plague
+
+eventBehaviour
+play
+Player 1 lost 2 shields
+
+Player
+addShields
+Player 1 has been awared -2 shields
+
+Player
+addShields
+Player 1 is still a  Squire
+
+Player
+addShields
+Player 1has now0 shields
+
+Player
+addShields
+Player 1previous shields: 0
+
+eventBehaviour
+updateAllPlayers
+Updating all players with information about all players
+
+eventBehaviour
+updateAllPlayers
+Player 2 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+eventBehaviour
+updateAllPlayers
+Player 4 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+eventBehaviour
+updateAllPlayers
+Player 3 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+eventBehaviour
+updateAllPlayers
+Player 1 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+eventBehaviour
+play
+Players are being displayed the result event Plague
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 2
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 4
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 3
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 1
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@3de9326e
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@107911e0
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@7f37fd6c
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@6aea63c3
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Defend the Queen's Honor
+
+Model
+play
+Story: Defend the Queen's Honor
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+Model
+displayStory
+Story: Defend the Queen's Honor to be displayed to all players.
+
+questBehaviour
+play
+Playing: Defend the Queen's Honor
+
+questBehaviour
+play
+Checking all players to see if  Sir Tristan and Queen are in play  
+
+questBehaviour
+isTristanInPlay
+Checking if Queen Iseult is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Queen Iseult is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Checking if  Sir Tristan is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 4 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 4
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 3 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 3
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 1 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 1
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 2 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+questBehaviour
+play
+Sponsor has not been chosen
+
+questBehaviour
+play
+Quest behaviour is complete
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Vanquish King Arthur's Enemies
+
+Model
+play
+Story: Vanquish King Arthur's Enemies
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+Model
+displayStory
+Story: Vanquish King Arthur's Enemies to be displayed to all players.
+
+Player
+displayStory
+Player 3is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 3
+
+Player
+displayStory
+Player 1is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 1
+
+Player
+displayStory
+Player 2is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 2
+
+Player
+displayStory
+Player 4is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 4
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 3
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 4
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 2
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 1
+
+questBehaviour
+play
+Playing: Vanquish King Arthur's Enemies
+
+questBehaviour
+play
+Checking all players to see if  Sir Tristan and Queen are in play  
+
+questBehaviour
+isTristanInPlay
+Checking if Queen Iseult is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Queen Iseult is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Checking if  Sir Tristan is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 3 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 3
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 1 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 1
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 2 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 4 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 4
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+questBehaviour
+play
+Sponsor has not been chosen
+
+questBehaviour
+play
+Quest behaviour is complete
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Vanquish King Arthur's Enemies
+
+Model
+play
+Story: Vanquish King Arthur's Enemies
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+Model
+displayStory
+Story: Vanquish King Arthur's Enemies to be displayed to all players.
+
+Player
+displayStory
+Player 1is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 1
+
+Player
+displayStory
+Player 2is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 2
+
+Player
+displayStory
+Player 4is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 4
+
+Player
+displayStory
+Player 3is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 3
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 2
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 1
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 3
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 4
+
+questBehaviour
+play
+Playing: Vanquish King Arthur's Enemies
+
+questBehaviour
+play
+Checking all players to see if  Sir Tristan and Queen are in play  
+
+questBehaviour
+isTristanInPlay
+Checking if Queen Iseult is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Queen Iseult is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Checking if  Sir Tristan is in play with a set of players
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+isTristanInPlay
+Sir Tristan is in not play with the (perhaps limited) players checked.
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 1 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 1
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 2 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 2
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 4 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 4
+
+Utility
+playerDeckCards
+Player deck cards list: [Saxons, Robber Knight, Test of Valor, Test of the Questing Beast, Battle-ax, Battle-ax, Horse, Mordred, AMOUR, Sir Tristan, Excalibur, Test of the Questing Beast]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 4
+
+questBehaviour
+selectSponsor
+Selecting a sponsor (can be none)
+
+Player
+doISponsor
+Player 3 is choosing whether or not sponsor.
+
+humanBehaviour
+doISponsor
+sending data to client for Player 3
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 3
+
+questBehaviour
+play
+Sponsor has not been chosen
+
+questBehaviour
+play
+Quest behaviour is complete
+
+Model
+resetPlayerAttributes
+Reseting some of the attributes of all players to false 
+
+StoryDeck
+draw
+drawing a card: Queen's Favor
+
+Model
+play
+Story: Queen's Favor
+
+Model
+updateAllPlayers
+All players are being updated information about players before next Story
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+Model
+displayStory
+Story: Queen's Favor to be displayed to all players.
+
+Player
+displayStory
+Player 2is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 2
+
+Player
+displayStory
+Player 4is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 4
+
+Player
+displayStory
+Player 3is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 3
+
+Player
+displayStory
+Player 1is being displayed the Story card and will be updated with stats of players.
+
+humanBehaviour
+displayStory
+Sending data to client for Player 1
+
+Utility
+playerDeckCards
+Player deck cards list: [Horse, Evil Knight, Excalibur, Horse, Horse, Robber Knight, Evil Knight, Saxons, Mordred, Horse, Battle-ax, Saxon Knight]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Sword, Boar, Robber Knight, Thieves, AMOUR, Saxon Knight, Horse, Sir Galahad, Saxon Knight, Queen Guinevere, King Arthur]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+Utility
+playerDeckCards
+Player deck cards list: [Thieves, Green Knight, Horse, AMOUR, Test of Temptation, Thieves, Sir Lancelot, Sir Percival, Black Knight, Battle-ax, Green Knight, Mordred]
+
+Utility
+playerDeckCards
+Player deck cards list: []
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 4
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 1
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 2
+
+humanBehaviour
+displayStory
+Retrieved data for client for Player 3
+
+eventBehaviour 
+play
+Event: Queen's Favor
+
+eventBehaviour
+play
+Finding lowest ranked player(s) in session
+
+eventBehaviour
+play
+Comparing players
+
+eventBehaviour
+play
+Player 4 was added as same rank as current player compared.
+
+eventBehaviour
+play
+Comparing players
+
+eventBehaviour
+play
+Player 3 was added as same rank as current player compared.
+
+eventBehaviour
+play
+Comparing players
+
+eventBehaviour
+play
+Player 1 was added as same rank as current player compared.
+
+eventBehaviour
+play
+Player 2 won the event. Awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Lance
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 2: Lance
+
+AdventureDeck
+dealCard
+dealing the card Dragon
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 2: Dragon
+
+eventBehaviour
+play
+Player 4 won the event. Awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Sword
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 4: Sword
+
+AdventureDeck
+dealCard
+dealing the card Test of Valor
+
+PlayerDeck
+add
+Adventure card typeTEST added
+
+Player
+addcard
+added a card for Player 4: Test of Valor
+
+eventBehaviour
+play
+Player 3 won the event. Awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Evil Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 3: Evil Knight
+
+AdventureDeck
+dealCard
+dealing the card Sword
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 3: Sword
+
+eventBehaviour
+play
+Player 1 won the event. Awared 2 cards.
+
+AdventureDeck
+dealCard
+dealing the card Dagger
+
+PlayerDeck
+add
+Adventure card typeWEAPON added
+
+Player
+addcard
+added a card for Player 1: Dagger
+
+AdventureDeck
+dealCard
+dealing the card Robber Knight
+
+PlayerDeck
+add
+Adventure card typeFOE added
+
+Player
+addcard
+added a card for Player 1: Robber Knight
+
+eventBehaviour
+updateAllPlayers
+Updating all players with information about all players
+
+eventBehaviour
+updateAllPlayers
+Player 2 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 2
+
+eventBehaviour
+updateAllPlayers
+Player 4 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 4
+
+eventBehaviour
+updateAllPlayers
+Player 3 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 3
+
+eventBehaviour
+updateAllPlayers
+Player 1 is updated information about other players.
+
+humanBehaviour
+updateUI
+sending updated information of players toPlayer 1
+
+eventBehaviour
+play
+Players are being displayed the result event Queen's Favor
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 2
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 4
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 3
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+display
+sending data to client for Player 1
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@17fa5a77
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@4e267138
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@334a834c
+
+Utility
+playerNames
+Player names: [Ljava.lang.String;@4cb22291
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 1
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+humanBehaviour
+doIParticipate
+Retrieved data from client for Player 2
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed
+
+Player
+display
+Event/Tournament results is being displayed

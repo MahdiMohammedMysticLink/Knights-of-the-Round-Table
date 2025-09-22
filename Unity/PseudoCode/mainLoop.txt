@@ -1,0 +1,92 @@
+boolean gameOn = true
+int maxPlayers = 4;
+int humanCount; //Prompt user for the number of human players
+
+Player[] players;
+Player currPlayer;
+int bonusShields = 0;
+
+//Stack might be better to 'pop' cards off
+Stack(adventureCard) adventureDeck;
+Stack(storyCard) storyDeck;
+
+main(){
+	setup()
+	while(gameOn)
+	{	
+		play();
+	}
+}
+
+void setup()
+{
+	//shuffleSD(); Shuffles Story Deck
+	//shuffleAD(); Shuffles Adventure Deck
+
+	//Initialize players, assuming the player max is 4
+	for(int i = 0; i < maxPlayers; i++)
+	{
+		string name = "Player " + (i+1).toString(); //Default name
+		// *** Clarify: Each player places his ten identical Shields next to his Squire Card ***
+		if(i < humanCount)
+		{
+			name = //Prompt user for name, suggest "Player (i+1)"
+			players[i] = new Player(name, "Squire", "Human");
+		}
+		else
+		{
+			//AI must have some kind of name
+			players[i] = new Player(name, "Squire", "AI");
+		}
+		
+		//Each player must draw or be dealt 12 Adventure Cards
+		for(int j = 0; j < 12; j++)
+		{
+			//using player reference
+			drawCard(ref players[i], "Adventure");
+		}
+	}
+}
+
+void play()
+{
+	
+	//Current player draws and plays card from Story Deck
+	storyCard story = storyDeck.Pop();
+	story.play(ref players)
+	
+	//Discard Story card, move onto next player
+	checkForEnd();
+}
+
+//Player draws card and adds to personal hand
+void drawCard(ref Player p, string cardType)
+{
+	if(cardType == "Adventure")
+	{
+		//Draw Adventure Card and add to player's deck
+		p.cards.Add(adventureDeck.Pop());
+		
+	}
+
+}
+
+
+
+
+//Ran at the end of every Story Card
+void checkForEnd()
+{
+	Player[] winners;
+	int count = 0;
+	for(int i = 0; i <= players.length; i++)
+	{
+		if(players[i].rank = "Knight of the Round Table")
+		{
+			winners[++count] = players[i];
+		}
+	}
+	
+	//Congrats to winners; break out of while loop
+	gameOn = false;
+}

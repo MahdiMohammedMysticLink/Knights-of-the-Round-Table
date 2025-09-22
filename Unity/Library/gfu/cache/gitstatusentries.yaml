@@ -1,0 +1,725 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1038538317, guid: 66da555d9ce961d448d026ba0354ee79, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  lastUpdatedAtString: 2018-02-05T22:02:32.2189936-05:00
+  lastVerifiedAtString: 2018-02-05T22:02:33.4683145-05:00
+  initializedAtString: 2018-02-05T21:44:34.0517644-05:00
+  entries:
+  - path: .vs\Team50COMP3004Winter2018\v15\.suo
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\.vs\Team50COMP3004Winter2018\v15\.suo
+    projectPath: .vs\Team50COMP3004Winter2018\v15\.suo
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: .vs\Team50COMP3004Winter2018\v15\Server\sqlite3\storage.ide
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\.vs\Team50COMP3004Winter2018\v15\Server\sqlite3\storage.ide
+    projectPath: .vs\Team50COMP3004Winter2018\v15\Server\sqlite3\storage.ide
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assembly-CSharp.csproj
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Assembly-CSharp.csproj
+    projectPath: Assembly-CSharp.csproj
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\MultiCards.cs
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Assets\MultiCards.cs
+    projectPath: Assets\MultiCards.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Behaviours\Play\playEventBehaviour.cs
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Assets\Scripts\Behaviours\Play\playEventBehaviour.cs
+    projectPath: Assets\Scripts\Behaviours\Play\playEventBehaviour.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Classes\Player.cs
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Assets\Scripts\Classes\Player.cs
+    projectPath: Assets\Scripts\Classes\Player.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Classes\Sponsor.cs
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Assets\Scripts\Classes\Sponsor.cs
+    projectPath: Assets\Scripts\Classes\Sponsor.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\expandedItems
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\expandedItems
+    projectPath: Library\expandedItems
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\03\0362d1edacd855d4fb1b69bf9ca26bcf
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\03\0362d1edacd855d4fb1b69bf9ca26bcf
+    projectPath: Library\metadata\03\0362d1edacd855d4fb1b69bf9ca26bcf
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\6f\6f23e2c7d3c1a5c4da6190fa66e6b7d2
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\6f\6f23e2c7d3c1a5c4da6190fa66e6b7d2
+    projectPath: Library\metadata\6f\6f23e2c7d3c1a5c4da6190fa66e6b7d2
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\79\799f6ad4b7cf4b640b4b622a4da3d449
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\79\799f6ad4b7cf4b640b4b622a4da3d449
+    projectPath: Library\metadata\79\799f6ad4b7cf4b640b4b622a4da3d449
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\7a\7af293549c5b5674abf8468d64db74ff
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\7a\7af293549c5b5674abf8468d64db74ff
+    projectPath: Library\metadata\7a\7af293549c5b5674abf8468d64db74ff
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\84\8493ed71c40934242bc23326f9ecdbb8
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\84\8493ed71c40934242bc23326f9ecdbb8
+    projectPath: Library\metadata\84\8493ed71c40934242bc23326f9ecdbb8
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\ce\ce11697f44b2b71499e2b82fb3ab7920
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\ce\ce11697f44b2b71499e2b82fb3ab7920
+    projectPath: Library\metadata\ce\ce11697f44b2b71499e2b82fb3ab7920
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    projectPath: obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+    projectPath: obj\Debug\Assembly-CSharp.csproj.FileListAbsolute.txt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    projectPath: obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\obj\Debug\Assembly-CSharp.dll
+    projectPath: obj\Debug\Assembly-CSharp.dll
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: obj\Debug\Assembly-CSharp.pdb
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\obj\Debug\Assembly-CSharp.pdb
+    projectPath: obj\Debug\Assembly-CSharp.pdb
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Assets\Scripts\Classes\Deck\MasterDeck.cs.meta
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Assets\Scripts\Classes\Deck\MasterDeck.cs.meta
+    projectPath: Assets\Scripts\Classes\Deck\MasterDeck.cs.meta
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\ScriptAssemblies\Assembly-CSharp.dll
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    projectPath: Library\ScriptAssemblies\Assembly-CSharp.dll.mdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    projectPath: Library\ScriptAssemblies\BuiltinAssemblies.stamp
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\64\648dda5793c246a48bffac3f7700b9fe
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\64\648dda5793c246a48bffac3f7700b9fe
+    projectPath: Library\metadata\64\648dda5793c246a48bffac3f7700b9fe
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\64\648dda5793c246a48bffac3f7700b9fe.info
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Library\metadata\64\648dda5793c246a48bffac3f7700b9fe.info
+    projectPath: Library\metadata\64\648dda5793c246a48bffac3f7700b9fe.info
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-4f7a09b958848ae4a9794443688114df
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\UnityTempFile-4f7a09b958848ae4a9794443688114df
+    projectPath: Temp\UnityTempFile-4f7a09b958848ae4a9794443688114df
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-9e075402c7754c747ab573f093f23567
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\UnityTempFile-9e075402c7754c747ab573f093f23567
+    projectPath: Temp\UnityTempFile-9e075402c7754c747ab573f093f23567
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-c86cb9e043488b849abd6afa015bb7a1
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\UnityTempFile-c86cb9e043488b849abd6afa015bb7a1
+    projectPath: Temp\UnityTempFile-c86cb9e043488b849abd6afa015bb7a1
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-eaf07dabb285a5547b2cb67e9b2f7cdc
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\UnityTempFile-eaf07dabb285a5547b2cb67e9b2f7cdc
+    projectPath: Temp\UnityTempFile-eaf07dabb285a5547b2cb67e9b2f7cdc
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-f9d66e1a770cbeb4b8dea340008ae0c8
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\UnityTempFile-f9d66e1a770cbeb4b8dea340008ae0c8
+    projectPath: Temp\UnityTempFile-f9d66e1a770cbeb4b8dea340008ae0c8
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Assembly-CSharp.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Assembly-CSharp.dll
+    projectPath: Temp\bin\Debug\Assembly-CSharp.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Assembly-CSharp.pdb
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Assembly-CSharp.pdb
+    projectPath: Temp\bin\Debug\Assembly-CSharp.pdb
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\AsyncBridge.Net35.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\AsyncBridge.Net35.dll
+    projectPath: Temp\bin\Debug\AsyncBridge.Net35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\DotNetHttp35.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\DotNetHttp35.dll
+    projectPath: Temp\bin\Debug\DotNetHttp35.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\ExCSS.Unity.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\ExCSS.Unity.dll
+    projectPath: Temp\bin\Debug\ExCSS.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\GitHub.Api.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\GitHub.Api.dll
+    projectPath: Temp\bin\Debug\GitHub.Api.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\GitHub.Logging.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\GitHub.Logging.dll
+    projectPath: Temp\bin\Debug\GitHub.Logging.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\GitHub.Unity.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\GitHub.Unity.dll
+    projectPath: Temp\bin\Debug\GitHub.Unity.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
+    projectPath: Temp\bin\Debug\ICSharpCode.SharpZipLib.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Mono.Posix.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Mono.Posix.dll
+    projectPath: Temp\bin\Debug\Mono.Posix.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Mono.Security.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Mono.Security.dll
+    projectPath: Temp\bin\Debug\Mono.Security.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Octokit.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Octokit.dll
+    projectPath: Temp\bin\Debug\Octokit.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Rackspace.Threading.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Rackspace.Threading.dll
+    projectPath: Temp\bin\Debug\Rackspace.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\ReadOnlyCollectionsInterfaces.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\ReadOnlyCollectionsInterfaces.dll
+    projectPath: Temp\bin\Debug\ReadOnlyCollectionsInterfaces.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\System.Threading.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\System.Threading.dll
+    projectPath: Temp\bin\Debug\System.Threading.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.Cecil.Mdb.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.Cecil.Mdb.dll
+    projectPath: Temp\bin\Debug\Unity.Cecil.Mdb.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.Cecil.Pdb.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.Cecil.Pdb.dll
+    projectPath: Temp\bin\Debug\Unity.Cecil.Pdb.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.Cecil.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.Cecil.dll
+    projectPath: Temp\bin\Debug\Unity.Cecil.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.CecilTools.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.CecilTools.dll
+    projectPath: Temp\bin\Debug\Unity.CecilTools.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.DataContract.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.DataContract.dll
+    projectPath: Temp\bin\Debug\Unity.DataContract.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+    projectPath: Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.SerializationLogic.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.SerializationLogic.dll
+    projectPath: Temp\bin\Debug\Unity.SerializationLogic.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\Unity.UNetWeaver.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\Unity.UNetWeaver.dll
+    projectPath: Temp\bin\Debug\Unity.UNetWeaver.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Advertisements.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Advertisements.dll
+    projectPath: Temp\bin\Debug\UnityEditor.Advertisements.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Analytics.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Analytics.dll
+    projectPath: Temp\bin\Debug\UnityEditor.Analytics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+    projectPath: Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+    projectPath: Temp\bin\Debug\UnityEditor.GoogleAudioSpatializer.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Graphs.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Graphs.dll
+    projectPath: Temp\bin\Debug\UnityEditor.Graphs.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.HoloLens.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.HoloLens.dll
+    projectPath: Temp\bin\Debug\UnityEditor.HoloLens.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.HoloLens.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.HoloLens.xml
+    projectPath: Temp\bin\Debug\UnityEditor.HoloLens.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Networking.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Networking.dll
+    projectPath: Temp\bin\Debug\UnityEditor.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Networking.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Networking.xml
+    projectPath: Temp\bin\Debug\UnityEditor.Networking.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Purchasing.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Purchasing.dll
+    projectPath: Temp\bin\Debug\UnityEditor.Purchasing.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+    projectPath: Temp\bin\Debug\UnityEditor.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+    projectPath: Temp\bin\Debug\UnityEditor.SpatialTracking.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.TestRunner.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.TestRunner.dll
+    projectPath: Temp\bin\Debug\UnityEditor.TestRunner.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.TestRunner.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.TestRunner.xml
+    projectPath: Temp\bin\Debug\UnityEditor.TestRunner.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Timeline.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Timeline.dll
+    projectPath: Temp\bin\Debug\UnityEditor.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.Timeline.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.Timeline.xml
+    projectPath: Temp\bin\Debug\UnityEditor.Timeline.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.TreeEditor.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.TreeEditor.dll
+    projectPath: Temp\bin\Debug\UnityEditor.TreeEditor.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.TreeEditor.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.TreeEditor.xml
+    projectPath: Temp\bin\Debug\UnityEditor.TreeEditor.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.UI.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.UI.dll
+    projectPath: Temp\bin\Debug\UnityEditor.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.UI.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.UI.xml
+    projectPath: Temp\bin\Debug\UnityEditor.UI.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.UIAutomation.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.UIAutomation.dll
+    projectPath: Temp\bin\Debug\UnityEditor.UIAutomation.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.UIAutomation.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.UIAutomation.xml
+    projectPath: Temp\bin\Debug\UnityEditor.UIAutomation.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.VR.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.VR.dll
+    projectPath: Temp\bin\Debug\UnityEditor.VR.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.VR.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.VR.xml
+    projectPath: Temp\bin\Debug\UnityEditor.VR.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+    projectPath: Temp\bin\Debug\UnityEditor.WindowsStandalone.Extensions.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.dll
+    projectPath: Temp\bin\Debug\UnityEditor.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+    projectPath: Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+    projectPath: Temp\bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEditor.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEditor.xml
+    projectPath: Temp\bin\Debug\UnityEditor.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Advertisements.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Advertisements.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Advertisements.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Analytics.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Analytics.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Analytics.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+    projectPath: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+    projectPath: Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.HoloLens.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.HoloLens.dll
+    projectPath: Temp\bin\Debug\UnityEngine.HoloLens.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.HoloLens.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.HoloLens.xml
+    projectPath: Temp\bin\Debug\UnityEngine.HoloLens.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Networking.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Networking.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Networking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Networking.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Networking.xml
+    projectPath: Temp\bin\Debug\UnityEngine.Networking.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Purchasing.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Purchasing.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Purchasing.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+    projectPath: Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+    projectPath: Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.StandardEvents.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+    projectPath: Temp\bin\Debug\UnityEngine.StandardEvents.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.TestRunner.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.TestRunner.dll
+    projectPath: Temp\bin\Debug\UnityEngine.TestRunner.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.TestRunner.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.TestRunner.xml
+    projectPath: Temp\bin\Debug\UnityEngine.TestRunner.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Timeline.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Timeline.dll
+    projectPath: Temp\bin\Debug\UnityEngine.Timeline.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.Timeline.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.Timeline.xml
+    projectPath: Temp\bin\Debug\UnityEngine.Timeline.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.UI.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.UI.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UI.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.UI.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.UI.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UI.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.UIAutomation.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.UIAutomation.dll
+    projectPath: Temp\bin\Debug\UnityEngine.UIAutomation.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.UIAutomation.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.UIAutomation.xml
+    projectPath: Temp\bin\Debug\UnityEngine.UIAutomation.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.dll
+    projectPath: Temp\bin\Debug\UnityEngine.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\UnityEngine.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\UnityEngine.xml
+    projectPath: Temp\bin\Debug\UnityEngine.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\nunit.framework.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\nunit.framework.dll
+    projectPath: Temp\bin\Debug\nunit.framework.dll
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\nunit.framework.xml
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\nunit.framework.xml
+    projectPath: Temp\bin\Debug\nunit.framework.xml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\bin\Debug\sfw.net.dll
+    fullPath: C:\Users\Hanochar\Documents\Team50COMP3004Winter2018\Temp\bin\Debug\sfw.net.dll
+    projectPath: Temp\bin\Debug\sfw.net.dll
+    originalPath: 
+    status: 1
+    staged: 0

@@ -1,0 +1,161 @@
+//Chivalrous Deed
+if("Chivalrous Deed")
+{
+	Player[] lowestList = new Player[4];
+	Player[] lowLowestList = new Player[4];
+	
+	
+	
+	lowestList[0] = players[0];
+	int count = 1;
+	
+	//Find lowest ranked player(s) in session
+	for(int i = 1; i < players.length; i++) 
+	{
+		if(lowestList[0].rank > players[i].rank)
+		{
+			lowestList[0]= players[i];
+		}
+		else if(lowestList[0].rank == players[i].rank)
+		{
+			lowestList[count] = players[i];
+			count++;
+		}
+	}
+	
+	//Compare players with the lowest rank against shield count
+	lowLowestList[0] = lowest[0];
+	count = 1;
+	for(int i = 1; i < lowest.length; i++) 
+	{
+		if(lowLowestList[0].shields > lowest[i].shields)
+		{
+			lowestList[0]= lowest[i];
+		}
+		else if(lowLowestList[0].shields == lowest[i].shields)
+		{
+			lowestList[count] = players[i];
+			count++;
+		}
+	}
+	
+	//Award 3 shields to each player with the lowest rank and shield count
+	for(int i = 0; i < lowLowestList.length; i++) 
+	{
+		lowLowestList[i].shields += 3;
+	}
+	
+}
+//Pox
+else if("Pox")
+{
+	//All players except the drawing player loses one shield
+	for(int i = 0; i < players.length; i++)
+	{
+		if(players[i] != currPlayer)
+		players[i].shields--;
+		
+		if(players[i].shields < 0)
+			players[i].shields = 0;
+	}
+	
+}
+//Plague
+else if("Plague")
+{
+	//Drawer loses two shields if possible
+	currPlayer.shields--;
+	currPlayer.shields--;
+	
+	if(currPlayer.shields < 0)
+		players[i].shields = 0;
+	
+}
+//King's Recognition
+else if("King's Recognition")
+{
+	//Add +2 shields to next quest reward, can be independent global variable
+}
+//Queen's Favor
+else if("Queen's Favor")
+{
+	Player[] lowestList = new Player[4];
+	
+	lowestList[0] = players[0];
+	int count = 1;
+	
+	//Find lowest ranked player(s) in session
+	for(int i = 1; i < players.length; i++) 
+	{
+		if(lowestList[0].rank > players[i].rank)
+		{
+			lowestList[0]= players[i];
+		}
+		else if(lowestList[0].rank == players[i].rank)
+		{
+			lowestList[count] = players[i];
+			count++;
+		}
+	}
+	
+	//Players with the lowest rank immediately draws two Adventure Cards
+	for(int i = 0; i < lowLowestList.length; i++) 
+	{
+		lowLowestList[i].drawCard();
+		lowLowestList[i].drawCard();
+	}
+	
+}
+//Court Called to Camelot
+else if("Court Called to Camelot")
+{
+	//All allies are discarded
+	for(int i = 0; i < allies.length; i++) 
+	{
+		allies[i].discard();
+	}
+	
+}
+//Court Called to Camelot
+else if("King's Call to Arms")
+{
+	Player[] highestList = new Player[4];
+	
+	highestList[0] = players[0];
+	int count = 1;
+	
+	//Find highest ranked player(s) in session
+	for(int i = 1; i < players.length; i++) 
+	{
+		if(highestList[0].rank < players[i].rank)
+		{
+			highestList[0]= players[i];
+		}
+		else if(highestList[0].rank == players[i].rank)
+		{
+			highestList[count] = players[i];
+			count++;
+		}
+	}
+	
+	for(int i = 0; i < highestList.length; i++) 
+	{
+		//Force player to discard Weapon Card, player.weaponCardCount?
+		
+		//If not possible, discard 2 Foe Cards, player.foeCardCount?
+		
+	}
+	
+	
+}
+//Prosperity Throughout the Realm
+else if("Prosperity Throughout the Realm")
+{
+	//All players must draw 2 Adventure Cards
+	for(int i = 0; i < players.length; i++)
+	{
+		players[i].drawCard();
+		players[i].drawCard();
+	}
+	
+}

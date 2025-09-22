@@ -1,0 +1,467 @@
+class Card{
+	string deck;
+	string type;
+	string name;
+	Sprite sprite;
+	
+	public Card(string d = "", string t = "", string n = "", Sprite s){
+		deck = d;
+		type = t;
+		name = n;
+		sprite = s;
+	}
+}
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+class adventureCard: Card{
+	public adventureCard(string type, string name, string is): Card("ADVENTURE",type, name, img)
+	{}
+}
+
+testCard: adventureCard{
+	int minBid;
+	string condition;
+	public testCard(string name, string img, int b, string cond): adventureCard("TEST", name, img)
+	{
+		minBid = b;
+		condition = cond;
+	}
+
+}
+
+foeCard: adventureCard{
+	int[2] stats;
+	public foeCard(string name, string img, int s1 = 0, int s2 = s1): adventureCard("FOE", name, img)
+	{
+		stats[0] = s1;
+		stats[1] = s2;
+	}
+}
+
+allyCard: adventureCard{
+	int points;
+	int bonus;
+	string bonusType;
+	string condition;
+	
+	public allyCard(string name, string img, int p = 0, int b = 0; string bT = "", string cond = ""): adventureCard("ALLY", name, img)
+	{
+		points = p;
+		bonus = b;
+		bonusType = bT;
+		condition = cond;
+	}
+
+}
+
+amourCard: adventureCard{
+	int points;
+	int bonus;
+	string bonusType;
+	
+	public amourCard(string name, string img, int p = 0, int b = 0; string bT = ""): adventureCard("AMOUR", name, img)
+	{
+		points = p;
+		bonus = b;
+		bonusType = bT;
+	}
+}
+
+weaponCard: adventureCard{
+	int points;
+	
+	public weaponCard(string name, string img, int p = 0): adventureCard("WEAPON", name,  img)
+	{
+		points = p;
+	}
+}
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+class storyCard: Card{
+	public storyCard(string type, string name, string is): Card("STORY",type, name, img)
+	{}
+	
+	private virtual void play(){}
+}
+
+class eventCard: storyCard{
+	public eventCard(string t, string n, string is): storyCard("EVENT", t, n, is)
+	{}
+
+	public void play(ref Player[] players)
+	{
+		//Chivalrous Deed
+		if(name == "Chivalrous Deed")
+		{
+			//Make sure references are used
+			List<Player> lowestList;
+			List<Player> lowLowestList;
+			
+			lowestList.Add(players[0]);
+			
+			//Find lowest ranked player(s) in session
+			for(int i = 1; i < players.length; i++) 
+			{
+				if(lowestList[0].rank > players[i].rank)
+				{
+					//Clear array
+					lowestList.Clear()
+					lowestList.Add(players[i]);
+				}
+				else if(lowestList[0].rank == players[i].rank)
+				{
+					lowestList.Add(players[i])
+				}
+			}
+			
+			//Compare players with the lowest rank against shield count
+			lowLowestList.Add(lowest[0]);
+			for(int i = 1; i < lowest.length; i++) 
+			{
+				if(lowLowestList[0].shields > lowest[i].shields)
+				{
+					//Clear array
+					lowLowestList.Clear()
+					lowLowestList.Add(lowest[i]);
+				}
+				else if(lowLowestList[0].shields == lowest[i].shields)
+				{
+					lowLowestList.Add(lowest[i]);
+				}
+			}
+			
+			//Award 3 shields to each player with the lowest rank and shield count
+			for(int i = 0; i < lowLowestList.length; i++) 
+			{
+				lowLowestList[i].shields += 3;
+			}
+			
+		}
+		//Pox
+		else if(name == "Pox")
+		{
+			//All players except the drawing player loses one shield
+			for(int i = 0; i < players.length; i++)
+			{
+				if(players[i] != currPlayer)
+				players[i].shields--;
+				
+				if(players[i].shields < 0)
+					players[i].shields = 0;
+			}
+			
+		}
+		//Plague
+		else if(name == "Plague")
+		{
+			//Drawer loses two shields if possible
+			currPlayer.shields--;
+			currPlayer.shields--;
+			
+			if(currPlayer.shields < 0)
+				players[i].shields = 0;
+			
+		}
+		//King's Recognition
+		else if(name == "King's Recognition")
+		{
+			bonusShields += 2;
+		}
+		//Queen's Favor
+		else if(name == "Queen's Favor")
+		{
+			List<Player> lowestList;
+			
+			lowestList.Add(players[0]);			
+			//Find lowest ranked player(s) in session
+			for(int i = 1; i < players.length; i++) 
+			{
+				if(lowestList[0].rank > players[i].rank)
+				{
+					//Clear list then add
+					lowestList.Clear();
+					lowestList.Add(players[i]);
+				}
+				else if(lowestList[0].rank == players[i].rank)
+				{
+					lowestList.Add(players[i]);
+				}
+			}
+			
+			//Players with the lowest rank immediately draws two Adventure Cards
+			for(int i = 0; i < lowLowestList.length; i++) 
+			{
+				lowLowestList[i].drawCard();
+				lowLowestList[i].drawCard();
+			}
+			
+		}
+		//Court Called to Camelot
+		else if(name == "Court Called to Camelot")
+		{
+			//All allies are discarded, let's say there's a global collection of allies in play
+			for(int i = 0; i < allies.length; i++) 
+			{
+				allies[i].discard();
+			}
+			
+		}
+		//King's Call to Arms
+		else if(name == "King's Call to Arms")
+		{
+			List<Player> highestList;
+			
+			highestList.Add(players[0]);
+			
+			//Find highest ranked player(s) in session
+			for(int i = 1; i < players.length; i++) 
+			{
+				if(highestList[0].rank < players[i].rank)
+				{	
+					//Clear then add
+					highestList.Clear();
+					highestList.Add(players[i]);
+				}
+				else if(highestList[0].rank == players[i].rank)
+				{
+					highestList.Add(players[i]);
+				}
+			}
+			
+			for(int i = 0; i < highestList.length; i++) 
+			{
+				//Force player to discard Weapon Card, player.weaponCardCount?
+				bool isDiscarded = players[i].discard("Weapon");	
+				
+				//If not possible, discard 2 Foe Cards, player.foeCardCount?
+				if(!isDiscarded){
+					players[i].discard("Foe");
+					players[i].discard("Foe");
+				}
+				
+			}
+			
+		}
+		//Prosperity Throughout the Realm
+		else if(name == "Prosperity Throughout the Realm")
+		{
+			//All players must draw 2 Adventure Cards
+			for(int i = 0; i < players.length; i++)
+			{
+				players[i].drawCard();
+				players[i].drawCard();
+			}
+			
+		}
+	}
+}
+
+class questCard: storyCard{
+	int numStages;
+	List<foeCard> foes;
+	
+	public questCard(string t, string name, string is, int n, foeCard[] f = NULL): storyCard("QUEST", t, name, is)
+	{
+		numStages = n;
+		foes = f;
+	}
+	
+	public void play(ref Player[] players){
+		Player sponsor;
+		for(int i = 0; i < players.length; i++)
+		{
+			string ans = //Prompt the players if they want to sponsor quest
+			if(ans = "yes")
+			{
+				sponsor = ref players[i];
+				break;
+			}
+		}
+		
+		//Sponsor now has to setup Quest
+		if(sponsor != null)
+		{
+		
+			if(sponsor != currPlayer && sponsor.type = "Human")
+			{
+				//Display to screen that sponsor needs to setup Quest
+
+			}
+			
+			List <Card>[numStages] stages;
+			int cardsSpent = 0; //Assume no cards spent
+			
+			questSetup(ref sponsor, ref stages, ref cardsSpent);
+			
+			//Determine which players are playing
+			List<Player> participants;
+			for(int i = 0; i < players.length; i++)
+			{
+				if(players[i] != sponsor)
+				{
+					//Prompt user if they want to play
+					if(yes)
+						participants.Add(players[i])
+				}
+			}
+			
+			//Allow players to play stages
+			List<Card> [numStages] stages;
+			for(int i = 0; i < stages.length; i++)
+			{
+				if(stages[i][0].type == "FOE")
+				{
+					//Each player engages the foe
+					for(int j = 0; j < participants.length; j++)
+					{
+						//Each player draws cards to fight foe
+					}
+					
+					//All cards are flipped over / revealed
+					// Flip weapon cards, if any, for foe
+					
+					
+					//Initialize and foe's battle points
+					int foePoints = 0;
+					calculateFoePoints(stages[i], ref foePoints);
+					
+					//See if participants pass or fail
+					for(int j = 0; j < participants.length; j++)
+					{
+						//Pseudo, if player fails
+						if(participants[j].points < foe.points)
+						{
+							participants.Remove(participants[j]);
+						}
+						else
+						{
+							//Successful participant draws one Adventure Card
+							drawCard(ref participants[j], "Adventure");
+						}
+					}
+					//Discard all cards in play
+				}
+				else if(stages[i][0].type == "TEST")
+				{
+					//Engage test instructions
+				}
+			
+			}
+			
+			
+			//Successful participants are awarded shields based on # of stages
+			for(int i = 0; i < participants.length; i++)
+			{
+				participants[i].points += numStages + bonusShields;
+			}
+			
+			//Sponsor draws (cards spent + numStages) Adventure Cards
+			for(int i = 0; i < (cardsSpent + numStages); i++)
+			{
+				drawCard(sponsor, "Adventure");
+			}
+			
+			bonusShields = 0;
+		}
+		
+		//Quest End
+	}
+	
+	void calculateFoePoints(List<Card> f, ref int battlePoints)
+	{	
+		if(name == "Defend the Queen's Honor" || name == "Search for the Holy Grail" || foes.Contains(f[0]))
+		{
+			//Special foes associated to Quest Card
+			battlePoints = f[0].stats[1];
+		}
+		battlePoints = f[0].stats[0];
+		
+		//Assuming the other cards played with foe are weapon cards
+		for(int j = 1; j < f.length; j++)
+		{
+			//Add Weapon battle points to foes total 
+			battlePoints += f[j].points;
+		}
+	}
+	
+	void questSetup(ref Player sponsor, ref List<adventureCard>[] stages, ref int cardsSpent)
+	{
+		//How much cards does the sponsor start off with?
+		cardsSpent = sponsor.cards.length;
+		
+		//Set up in terms of stages
+		for(int i = 0; i < stages.length; i++)
+		{
+			//Display which stage# you are setting up
+			
+			boolean isFinished = false;
+			while(!isFinished)
+			{
+				adventureCard c;
+				//Display in center screen only For and Test Card in player's possession
+		
+				//Have player select card
+		
+				int pointsLastRound = 0;
+				//Check what kind of card was selected
+				if(c.type = "Foe")
+				{
+					int points = 0;
+					stages[i].Add(c);
+					points += c.points;
+					
+					boolean finishedSel = false;
+					while(!finishedSel)
+					{
+						//Display only sponsor's Weapon cards
+						//Have player select a weapon card, suppose c becomes this card
+						if(c.name = "Battle Axe" && stages[i].contains(c) >= 0)
+						{
+							//Display to user can't play more than one Battle Axe
+						}
+						else
+						{
+							//Add weapon card to stage
+							points += c.points;
+							stages[i].Add(c);
+						}
+						
+						if(points > pointsLastRound)
+						{
+							//Prompt to player if is done setting up this round
+							finishedSel = true;//if yes
+						}
+						
+					}
+				}
+				else if(c.type = "Test")
+				{
+					stages[i].Add(c);
+				}
+			}
+		}
+		
+		cardsSpent -= sponsor.cards.length; //Computed difference gives cards spent for setup
+	}
+}
+
+class tournamentCard: storyCard{
+	string location;
+	int bonusShields;
+	
+	public tournamentCard(string t, string n, string is, string l, int b): storyCard("TOURNAMENT", t, n, is)
+	{
+		location = l;
+		bonusShields = b;
+	}
+	
+	public void play(ref Player[] players){}
+}
